@@ -1,0 +1,13 @@
+{
+  "extends": ["@newyolk/tsconfig/base.json"],
+  "compilerOptions": {
+    "tsBuildInfoFile": ".cache/tsbuildinfo.json",
+    "moduleSuffixes": [".ios", ".android", ".native", ""],
+    "paths": { "@/*": ["./*"] },
+    "jsx": "react-native",
+    "checkJs": false,
+    "baseUrl": "."
+  },
+  "include": ["**/*.ts", "**/*.tsx", ".expo/types/**/*.ts", "expo-env.d.ts", "eslint.config.mts", "nativewind-env.d.ts", "index.js"],
+  "exclude": ["node_modules"]
+}

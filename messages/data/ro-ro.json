@@ -1,0 +1,2437 @@
+{
+  "title": "NewYolk",
+  "SignIn": {
+    "title": "Autentificare",
+    "description": "Introduceți adresa de email pentru a continua",
+    "codePrompt": "Verifică-ți emailul pentru codul de verificare",
+    "emailPlaceholder": "Introduceți adresa de email",
+    "signUpWelcome": "Bine ai venit la NewYolk!",
+    "signUpSubtitle": "Investeste in ferme reale - castiga venit zilnic."
+  },
+  "YolkPage": {
+    "yolk": "Gălbenuș",
+    "yolkTitle": "Gălbenuș",
+    "cornTitle": "Porumb",
+    "milkTitle": "Lapte",
+    "hayTitle": "Fân",
+    "digitalAsset": "Activ Digital",
+    "yourBalance": "Soldul Tău"
+  },
+  "FarmPage": {
+    "dailyYield": "Randament Zilnic",
+    "title": "NewYolk",
+    "rewards": "Recompense & Consum",
+    "daily": "Recompense Zilnice",
+    "food": "Hrană Zilnică",
+    "earned": "Total Câștigat",
+    "fed": "Total Hranit",
+    "rentRemaining": "Chirie Rămasă",
+    "poultry": "Păsări",
+    "currentPoultryStock": "Stoc Curent de Păsări",
+    "roosters": "Roosters",
+    "cattles": "Vite",
+    "cockerels": "Cocoșei",
+    "heifers": "Junci",
+    "farming": "Agricultură",
+    "hens": "Găini",
+    "growing": "Creștere",
+    "chicks": "Pui",
+    "actionCenter": "Centru de Acțiuni",
+    "farmOperations": "Operațiuni Agricole",
+    "availableRewards": "Recompense Disponibile",
+    "foodNeeded": "Hrană Necesară",
+    "rewardsAvailable": "Recompense Disponibile",
+    "corn": "PORUMB",
+    "eggs": "Ouă"
+  },
+  "Header": {
+    "Iraq": "Irak",
+    "title": "NewYolk",
+    "Romania": "România",
+    "totalBalance": "Sold Total",
+    "total": "Total",
+    "hens": "Găini",
+    "roosters": "Cocoși",
+    "farm": "Farm",
+    "menu": "Menu",
+    "selectRealm": "Selectează Regiunea",
+    "chicks": "Pui",
+    "cattles": "Vite",
+    "heifers": "Junci",
+    "cockerels": "Cocoșei",
+    "bulls": "Tauri",
+    "balance": "Valoare balanță",
+    "buttons": {
+      "farm": "Fermă",
+      "manageAccount": "Administrează contul",
+      "farmCenter": "Fermă",
+      "farmStore": "Reinvestește",
+      "viewAssets": "Inventar",
+      "breeding": "Reproducere",
+      "marketplace": "Piață",
+      "withdraw": "Retragere",
+      "history": "History",
+      "language": "Limbă",
+      "pricing": "Prețuri",
+      "signIn": "Conectare",
+      "signUp": "Înregistrare",
+      "signOut": "Deconectare",
+      "continue": "Continuă",
+      "feedNow": "Hrănește acum"
+    },
+    "withdraw": {
+      "dialog": {
+        "title": "Retragere",
+        "description": "Completați detaliile și faceți clic pe trimiteți când ați terminat.",
+        "pending": "Cererea dvs. este în curs de procesare",
+        "completed": "Cererea dvs. a fost procesată cu succes"
+      },
+      "form": {
+        "success": "Cererea de retragere a fost trimisă cu succes.",
+        "paymentMethod": {
+          "label": "Metodă de plată",
+          "command": {
+            "placeholder": "Căutați metoda ...",
+            "empty": "Nicio metodă găsită."
+          }
+        },
+        "yolkAmount": { "label": "Cantitate YOLK" },
+        "transactionDetails": {
+          "label": "Detalii tranzacție",
+          "placeholder": "informații despre cont pentru transferul de bani (IBAN, numele titularului, numărul contului, etc.)"
+        },
+        "summary": {
+          "title": "Sumar retragere",
+          "commision": "Comision",
+          "amountIQD": "Sumă (IQD)",
+          "amountUSD": "Sumă (USD)"
+        },
+        "attachments": { "label": "Atașamente" },
+        "checkbox": { "label": "Acceptați termenii" },
+        "info": "Asigurați-vă că atașați selfie-ul necesar cu ID-ul dvs., completați detaliile tranzacției și acceptați termenii.",
+        "info2": "Vă rugăm să vă asigurați că completați detaliile tranzacției și acceptați termenii.",
+        "comission": "Comision",
+        "total": "Total",
+        "button": {
+          "submit": "Trimiteți",
+          "cancel": "Anulați",
+          "close": "Închide"
+        }
+      }
+    },
+    "kyc": {
+      "dialog": {
+        "title": "Verificare KYC",
+        "description": "Încărcați documentele personale pentru a vă verifica identitatea și a accesa toate funcțiile platformei."
+      },
+      "button": "Verificați acum"
+    },
+    "ban": {
+      "dialog": {
+        "title": "Cont suspendat",
+        "description": "Contul dvs. a fost suspendat. Vă rugăm să contactați echipa de suport pentru mai multe informații."
+      }
+    }
+  },
+  "Countdown": {
+    "day": "zi",
+    "days": "zile",
+    "hour": "oră",
+    "hours": "ore",
+    "minute": "minut",
+    "minutes": "minute",
+    "second": "secundă",
+    "seconds": "secunde",
+    "month": "lună",
+    "year": "an"
+  },
+  "Navigation": {
+    "routes": {
+      "1": {
+        "title": "Funcționalități",
+        "url": "/features"
+      },
+      "2": {
+        "title": "Prețuri",
+        "url": "/pricing"
+      },
+      "3": {
+        "title": "Plan de dezvoltare",
+        "url": "/roadmap"
+      },
+      "4": {
+        "title": "Contact",
+        "url": "/contact"
+      },
+      "5": {
+        "title": "Fermă",
+        "url": "/farm"
+      },
+      "6": {
+        "title": "Active",
+        "url": "/assets"
+      }
+    },
+    "terms": {
+      "1": {
+        "title": "Politica de Confidențialitate",
+        "url": "/privacy-policy"
+      },
+      "2": {
+        "title": "Cookies",
+        "url": "/cookie-policy"
+      },
+      "3": {
+        "title": "Termeni de Serviciu",
+        "url": "/terms"
+      },
+      "4": {
+        "title": "Acordul Utilizatorului",
+        "url": "/end-user-license-agreement"
+      },
+      "5": {
+        "title": "Livrare și Returnare",
+        "url": "/shipping-refunds"
+      }
+    },
+    "socials": {
+      "1": {
+        "title": "Discord",
+        "iconUrl": "/images/socials/discord.svg",
+        "url": "https://discord.gg/bRKdZKJh2J"
+      },
+      "2": {
+        "title": "Twitter",
+        "iconUrl": "/images/socials/twitter.svg",
+        "url": "https://twitter.com/NewYolkFarm"
+      },
+      "3": {
+        "title": "Telegram",
+        "iconUrl": "/images/socials/telegram.svg",
+        "url": "https://t.me/newyolkfarm"
+      },
+      "4": {
+        "title": "Facebook",
+        "iconUrl": "/images/socials/facebook.svg",
+        "url": "https://www.facebook.com/profile.php?id=100092581067171"
+      },
+      "5": {
+        "title": "Whatsapp",
+        "iconUrl": "/images/socials/whatsapp.svg",
+        "url": "https://wa.me/40793363091"
+      }
+    }
+  },
+  "Hero": {
+    "title1": "New Yolk",
+    "title2": "prima fermă online",
+    "description": "Ferma noastră de ultimă generație aduce puterea tehnologiei de vârf în agricultură, creând o nouă eră de transparență și eficiență.",
+    "button": "Începe acum",
+    "notification": "Cadoul găinii: un ou!"
+  },
+  "SignOut": {
+    "title": "Deconectare",
+    "description": "Ești sigur că vrei să te deconectezi?",
+    "button": "Deconectează-te",
+    "cancel": "Anulează"
+  },
+  "Services": {
+    "title": "Dezvoltarea potențialului tehnologiei în agricultură",
+    "heading": "New Yolk deschide o nouă eră în agricultură prin integrarea perfectă cu tehnologia de vârf, oferind eficiență și transparență de neegalat.",
+    "1": {
+      "title": "Agricultură Online",
+      "text": "Descoperiți beneficiile reale ale producției de ouă cu găinile noastre digitale.",
+      "list": "Transparență, Înregistrări, Agricultură Durabilă, Piață de desfacere"
+    },
+    "2": {
+      "title": "Găini Virtuale, Profituri Reale",
+      "text": "Experimentați fuziunea dintre proprietatea virtuală și câștigurile reale cu ferma noastră online. Îngrijiți-vă găinile digitale și recoltați recompensele financiare din vânzările de ouă în ecosistemul nostru prosper."
+    },
+    "3": {
+      "title": "Recompense Reale",
+      "text": "Asistați la transformarea găinii dvs. digitale într-o găină reală prosperă în cadrul fermei noastre. Echipa noastră dedicată se ocupă de fiecare aspect al îngrijirii ei, permițându-vă să beneficiați de vânzările de ouă. Îmbrățișați fuziunea perfectă dintre digital și fizic, unde agricultura online aduce beneficii tangibile."
+    }
+  },
+  "HowItWorks": {
+    "tagline": "Cum funcționează",
+    "button": "Începe acum",
+    "1": {
+      "title": "Cumpără găini digitale",
+      "text": "Începe-ți călătoria în agricultura digitală cu New Yolk. Creează-ți un cont și accesează o gamă largă de găini digitale. Începe să-ți construiești ferma virtuală astăzi!",
+      "image": "/images/how-it-works/image-1.png"
+    },
+    "2": {
+      "title": "Hrănește-ți găinile",
+      "text": "Oferă hrană și îngrijire găinilor tale digitale. Asigură-te că primesc hrana și atenția necesară pentru a le menține sănătoase și productive în ferma ta virtuală.",
+      "image": "/images/how-it-works/image-2.png"
+    },
+    "3": {
+      "title": "Colectează ouăle",
+      "text": "Bucură-te de roadele eforturilor tale de agricultură digitală. Recoltează o cantitate bogată de ouă digitale de la găinile tale și adaugă-le în inventarul tău.",
+      "image": "/images/how-it-works/image-3.png"
+    },
+    "4": {
+      "title": "Vinde ouăle",
+      "text": "Noi ne ocupăm de restul. Vom vinde ouăle tale digitale pe piață și le vom converti în $USD. Maximizează-ți profiturile utilizând transparența și eficiența ecosistemului fermei.",
+      "image": "/images/how-it-works/image-4.png"
+    },
+    "5": {
+      "title": "Retrage-ți profitul",
+      "text": "Transformă-ți succesul în agricultura digitală în valoare reală. Retrage-ți câștigurile de pe platforma fermei online și sărbătorește-ți realizările.",
+      "image": "/images/how-it-works/image-5.png"
+    }
+  },
+  "Features": {
+    "1": {
+      "title": "Valorifică potențialul tehnologiei de vârf",
+      "text": "New Yolk revoluționează modul în care abordezi agricultura și operațiunile agricole.",
+      "imageUrl": "/images/figures/1.png",
+      "iconUrl": "/images/icons/recording-01-black.svg",
+      "notification": "Generare cod"
+    },
+    "2": {
+      "title": "Simplifică managementul fermei",
+      "text": "Experimentează un management al fermei simplificat prin sisteme descentralizate, care permit urmărirea, monitorizarea și optimizarea eficientă a proceselor agricole.",
+      "imageUrl": "/images/figures/3.png",
+      "iconUrl": "/images/icons/recording-01-black.svg",
+      "notification": "Feedback educațional"
+    },
+    "3": {
+      "title": "Tranzacții sigure și transparente",
+      "text": "Beneficiază de tranzacții sigure și transparente, asigurând încredere și integritate în fiecare aspect al operațiunilor tale agricole.",
+      "imageUrl": "/images/figures/4.png",
+      "iconUrl": "/images/icons/recording-01-black.svg",
+      "notification": "Generare video"
+    },
+    "4": {
+      "title": "Managementul proceselor automatizat",
+      "text": "Valorifică procesele automatizate pentru a simplifica diverse operațiuni în cadrul fermei tale, de la gestionarea lanțului de aprovizionare până la decontările de plăți, crescând eficiența și reducând erorile umane.",
+      "imageUrl": "/images/figures/1.png",
+      "iconUrl": "/images/icons/recording-01-black.svg",
+      "notification": "Generare cod"
+    },
+    "5": {
+      "title": "Trasabilitate și asigurarea calității",
+      "text": "Asigură trasabilitatea și menține standarde înalte de calitate pentru produsele tale agricole, utilizând tehnologia pentru a urmări originea, metodele de producție și calitatea bunurilor tale agricole.",
+      "imageUrl": "/images/figures/3.png",
+      "iconUrl": "/images/icons/recording-01-black.svg",
+      "notification": "Feedback educațional"
+    },
+    "6": {
+      "title": "Acces la piețele descentralizate",
+      "text": "Accesează piețe descentralizate, extinzându-ți aria de acoperire și conectându-te direct cu cumpărătorii și consumatorii, eliminând intermediarii și reducând costurile.",
+      "imageUrl": "/images/figures/4.png",
+      "iconUrl": "/images/icons/recording-01-black.svg",
+      "notification": "Generare video"
+    }
+  },
+  "Benefits": {
+    "heading": {
+      "title": "Caracteristicile principale ale New Yolk",
+      "text": "Iată câteva dintre caracteristicile de bază ale New Yolk care îl fac să se deosebească de alte aplicații de chat"
+    },
+    "title": "Agricultură inteligentă cu New Yolk",
+    "link": "Explorați mai mult",
+    "1": {
+      "title": "Agricultură eficientă",
+      "text": "Platforma noastră permite o agricultură eficientă, permițând utilizatorilor să optimizeze procesele agricole și să își maximizeze randamentele.",
+      "backgroundUrl": "/images/benefits/card-1.svg",
+      "iconUrl": "/images/benefits/tech.png",
+      "imageUrl": "/images/benefits/image-2.png",
+      "light": "true"
+    },
+    "2": {
+      "title": "Informații bazate pe date",
+      "text": "Obțineți informații valoroase bazate pe date despre operațiunile fermei dvs. online, ajutându-vă să luați decizii informate și să îmbunătățiți productivitatea.",
+      "backgroundUrl": "/images/benefits/card-2.svg",
+      "iconUrl": "/images/benefits/data.png",
+      "imageUrl": "/images/benefits/image-2.png",
+      "light": "false"
+    },
+    "3": {
+      "title": "Conectivitate fără întreruperi",
+      "text": "Conectați-vă fără întreruperi la sistemele noastre și gestionați operațiunile fermei dvs. de oriunde, asigurând confort și accesibilitate.",
+      "backgroundUrl": "/images/benefits/card-3.svg",
+      "iconUrl": "/images/benefits/connectivity.png",
+      "imageUrl": "/images/benefits/image-2.png",
+      "light": "false"
+    },
+    "4": {
+      "title": "Securitate sporită",
+      "text": "Experimentați securitatea sporită prin tehnologia de vârf, oferind un ecosistem agricol inviolabil și transparent.",
+      "backgroundUrl": "/images/benefits/card-4.svg",
+      "iconUrl": "/images/benefits/security.png",
+      "imageUrl": "/images/benefits/image-2.png",
+      "light": "true"
+    },
+    "5": {
+      "title": "Practici durabile",
+      "text": "Adoptați practici durabile cu agricultura online, reducând impactul asupra mediului și promovând soluții agricole ecologice.",
+      "backgroundUrl": "/images/benefits/card-5.svg",
+      "iconUrl": "/images/benefits/sustainability.png",
+      "imageUrl": "/images/benefits/image-2.png",
+      "light": "false"
+    },
+    "6": {
+      "title": "Trasabilitate și proveniență",
+      "text": "Asigurați trasabilitatea și proveniența produselor dvs. agricole prin înregistrări online, oferind transparență și încredere consumatorilor.",
+      "backgroundUrl": "/images/benefits/card-6.svg",
+      "iconUrl": "/images/benefits/provenance.png",
+      "imageUrl": "/images/benefits/image-2.png",
+      "light": "false"
+    }
+  },
+  "Collaboration": {
+    "title": "Descoperă profiturile investiției tale",
+    "text": "Cifrele furnizate sunt estimate pe baza prețurilor actuale de pe piață și a ofertelor disponibile. Rentabilitatea reală poate varia în funcție de diverși factori precum fluctuațiile prețului de vânzare a ouălor, sănătatea găinilor și alte circumstanțe neprevăzute. Este important să considerați aceste estimări ca fiind informative și supuse schimbării.",
+    "1": {
+      "title": "Prețul oului: ",
+      "type": "egg",
+      "text": "Acesta este prețul în Europa, obiectivul nostru este să oferim cele mai competitive prețuri de pe piață.",
+      "value": "0.14"
+    },
+    "2": {
+      "title": "Cumpără o găină",
+      "type": "deposit",
+      "value": "16.99"
+    },
+    "3": {
+      "title": "Producție anuală: 320 OUA",
+      "type": "income",
+      "value": "320"
+    },
+    "4": {
+      "title": "Recompensă unică: 20 OUA",
+      "type": "income",
+      "value": "20"
+    },
+    "5": {
+      "title": "Plătește chirie pentru al doilea an",
+      "type": "rent",
+      "value": "2.7"
+    },
+    "6": {
+      "title": "Producție în al doilea an: 240 OUA",
+      "type": "income",
+      "value": "240"
+    },
+    "7": {
+      "title": "Mâncare pe an: 365 * 2 = 730 PORUMB",
+      "type": "food",
+      "value": "730"
+    }
+  },
+  "Presale": {
+    "tag": "Investește în viitorul agriculturii durabile",
+    "title": "Presale Bovine Holstein",
+    "cattle": "bovine",
+    "saved": "economisit",
+    "buy": "cumpără",
+    "reinvest": "reinvestește",
+    "discount": "reducere",
+    "items": {
+      "romania": {
+        "holstein": {
+          "numId": "14",
+          "name": "Bovină Holstein",
+          "amount": "1",
+          "production": "9000",
+          "priceInUsd": "5100",
+          "image": "/images/asset/cattle/holstein.jpg",
+          "description": "produce aproximativ 9000 litri de lapte per lactație",
+          "features": "1 bovină, include chiria pentru 1 an, adaugă asigurare",
+          "info": "Bovine Holstein - prima sarcină\n\nVârsta gestațională: 5-7 luni\nProducție de lapte: 8000-10000 litri de lapte anual\n1 litru de lapte = 2.25 RON\nData estimată a nașterii: al nouălea lună de sarcină\nNumăr de nașteri: 3\n\nNotă: Dacă se naște un vițel, acesta poate fi vândut ca carne. Dacă o vacă femelă naște, ea va deveni mamă de lapte după maturizare."
+        }
+      }
+    }
+  },
+  "Pricing": {
+    "name": "Pricing",
+    "total": "Total",
+    "tag": "Pachete Disponibile",
+    "title": "pachete premium disponibile pentru",
+    "description": "Pachetul pe nivel include facilități premium, acoperire de asigurare completă și sisteme de monitorizare 24/7.",
+    "starter": "Perfect pentru începători care vor să înceapă călătoria lor în creșterea păsărilor.",
+    "professional": "Ideal pentru fermierii cu experiență care caută funcții avansate.",
+    "packageHighlight": "Puncte Forte ale Pachetului",
+    "createDeposit": "Creează Depozit",
+    "depositDescription": "Completează detaliile și apasă pe Trimite când ești gata.",
+    "safetyCard": "Card de Siguranță",
+    "paymentMethod": "Metodă de Plată",
+    "itemAmount": "Cantitate",
+    "depositSuccessTitle": "Depozit reușit",
+    "depositSuccessMessage": "Depozitul tău a fost creat cu succes.",
+    "hens": "găini",
+    "item": "Articol",
+    "level": "Nivel",
+    "perHen": "PE GĂINĂ",
+    "purchase": "CUMPĂRĂ",
+    "notAvailable": "Indisponibil",
+    "link": "Vezi toate detaliile",
+    "hen": "găină",
+    "saved": "economisit",
+    "buy": "cumpără",
+    "discount": "reducere",
+    "roosters": "cocoși",
+    "chicks": "pui",
+    "v1": {
+      "1": {
+        "name": "Starter",
+        "hens": "1",
+        "eggs": "320",
+        "priceInUsd": "16.99",
+        "image": "/images/asset/pack/v1/Starter.png",
+        "description": "produce aproximativ 320 ouă pe an",
+        "features": "1 găină, include chiria pentru 1 an, adaugă asigurare, plătește cu YOLK?"
+      },
+      "2": {
+        "name": "Standard",
+        "hens": "16",
+        "eggs": "5120",
+        "priceInUsd": "256",
+        "image": "/images/asset/pack/v1/Standard.png",
+        "description": "produce aproximativ 5120 ouă pe an",
+        "save": "16",
+        "features": "16 găini, include chiria pentru 1 an, adaugă asigurare, plătește cu YOLK?"
+      },
+      "3": {
+        "name": "Premium",
+        "hens": "80",
+        "eggs": "25600",
+        "description": "produce aproximativ 25600 ouă pe an",
+        "priceInUsd": "1249",
+        "save": "109",
+        "features": "80 găini, include chiria pentru 1 an, adaugă asigurare, plătește cu YOLK?",
+        "image": "/images/asset/pack/v1/Premium.png"
+      },
+      "4": {
+        "name": "Advanced",
+        "hens": "170",
+        "eggs": "54400",
+        "priceInUsd": "2499",
+        "image": "/images/asset/pack/v1/Advanced.png",
+        "description": "produce aproximativ 54400 ouă pe an",
+        "save": "389",
+        "features": "170 găini, include chiria pentru 1 an, adaugă asigurare, plătește cu YOLK?"
+      },
+      "5": {
+        "name": "Elite",
+        "hens": "364",
+        "eggs": "116480",
+        "priceInUsd": "4999",
+        "image": "/images/asset/pack/v1/Elite.png",
+        "description": "produce aproximativ 116480 ouă pe an",
+        "save": "1185",
+        "features": "364 găini, include chiria pentru 1 an, adaugă asigurare, plătește cu YOLK?"
+      },
+      "6": {
+        "name": "Ultimate",
+        "hens": "775",
+        "eggs": "248000",
+        "priceInUsd": "9999",
+        "image": "/images/asset/pack/v1/Ultimate.png",
+        "description": "produce aproximativ 248000 ouă pe an",
+        "save": "3168",
+        "features": "775 găini, include chiria pentru 1 an, adaugă asigurare, plătește cu YOLK?"
+      }
+    },
+    "v2": {
+      "1": {
+        "numId": "1",
+        "name": "Starter",
+        "hens": "1",
+        "image": "/images/asset/pack/v2/Starter.jpg",
+        "description": "produce aproximativ 320 ouă în primul an",
+        "features": "1 găină, include chiria pentru 1 an, adaugă asigurare"
+      },
+      "2": {
+        "numId": "2",
+        "name": "Standard",
+        "hens": "15",
+        "image": "/images/asset/pack/v2/Standard.jpg",
+        "description": "produce aproximativ 4800 ouă în primul an",
+        "features": "15 găini, include chiria pentru 1 an, adaugă asigurare"
+      },
+      "3": {
+        "numId": "3",
+        "name": "Premium",
+        "hens": "77",
+        "description": "produce aproximativ 24640 ouă în primul an",
+        "features": "77 găini, include chiria pentru 1 an, adaugă asigurare",
+        "image": "/images/asset/pack/v2/Premium.jpg"
+      },
+      "4": {
+        "numId": "4",
+        "name": "Advanced",
+        "hens": "160",
+        "image": "/images/asset/pack/v2/Advanced.jpg",
+        "description": "produce aproximativ 51200 ouă în primul an",
+        "features": "160 găini, include chiria pentru 1 an, adaugă asigurare"
+      },
+      "5": {
+        "numId": "5",
+        "name": "Elite",
+        "hens": "337",
+        "image": "/images/asset/pack/v2/Elite.jpg",
+        "description": "produce aproximativ 107840 ouă în primul an",
+        "features": "337 găini, include chiria pentru 1 an, adaugă asigurare"
+      },
+      "6": {
+        "numId": "6",
+        "name": "Ultimate",
+        "hens": "710",
+        "image": "/images/asset/pack/v2/Ultimate.jpg",
+        "description": "produce aproximativ 227200 ouă în primul an",
+        "features": "710 găini, include chiria pentru 1 an, adaugă asigurare"
+      }
+    },
+    "romania": {
+      "1": {
+        "numId": "1",
+        "name": "1 găină",
+        "description": "produce aproximativ 320 ouă în primul an",
+        "features": "1 găină, include chiria pentru 1 an, adaugă asigurare"
+      },
+      "2": {
+        "numId": "2",
+        "name": "9 găini",
+        "description": "produce aproximativ 2880 ouă în primul an",
+        "features": "9 găini, include chiria pentru 1 an, adaugă asigurare"
+      },
+      "3": {
+        "numId": "3",
+        "name": "27 găini",
+        "description": "produce aproximativ 8640 ouă în primul an",
+        "features": "27 găini, include chiria pentru 1 an, adaugă asigurare"
+      },
+      "4": {
+        "numId": "4",
+        "name": "81 găini",
+        "description": "produce aproximativ 51200 ouă în primul an",
+        "features": "81 găini, include chiria pentru 1 an, adaugă asigurare"
+      },
+      "5": {
+        "numId": "5",
+        "name": "162 găini",
+        "description": "produce aproximativ 51840 ouă în primul an",
+        "features": "162 găini, include chiria pentru 1 an, adaugă asigurare"
+      },
+      "6": {
+        "numId": "6",
+        "name": "243 găini",
+        "description": "produce aproximativ 77760 ouă în primul an",
+        "features": "243 găini, include chiria pentru 1 an, adaugă asigurare"
+      },
+      "7": {
+        "numId": "7",
+        "name": "324 găini",
+        "description": "produce aproximativ 103680 ouă în primul an",
+        "features": "324 găini, include chiria pentru 1 an, adaugă asigurare"
+      },
+      "8": {
+        "numId": "8",
+        "name": "499 găini",
+        "description": "produce aproximativ 159680 ouă în primul an",
+        "features": "499 găini, 1 cocoș, include chiria pentru 1 an, adaugă asigurare"
+      },
+      "9": {
+        "numId": "9",
+        "name": "999 găini",
+        "description": "produce aproximativ 319680 ouă în primul an",
+        "features": "999 găini, 5 cocoși, 50 pui, include chiria pentru 1 an, adaugă asigurare"
+      }
+    },
+    "iraq": {
+      "1": {
+        "numId": "102",
+        "name": "9 găini",
+        "description": "produce aproximativ 2610 ouă în primul an",
+        "features": "9 găini, include chiria pentru 1 an, adaugă asigurare"
+      },
+      "2": {
+        "numId": "103",
+        "name": "18 găini",
+        "description": "produce aproximativ 5220 ouă în primul an",
+        "features": "18 găini, include chiria pentru 1 an, adaugă asigurare"
+      },
+      "3": {
+        "numId": "104",
+        "name": "36 găini",
+        "description": "produce aproximativ 10440 ouă în primul an",
+        "features": "36 găini, include chiria pentru 1 an, adaugă asigurare"
+      },
+      "4": {
+        "numId": "105",
+        "name": "72 găini",
+        "description": "produce aproximativ 20880 ouă în primul an",
+        "features": "72 găini, include chiria pentru 1 an, adaugă asigurare"
+      },
+      "5": {
+        "numId": "106",
+        "name": "144 găini",
+        "description": "produce aproximativ 41760 ouă în primul an",
+        "features": "144 găini, include chiria pentru 1 an, adaugă asigurare"
+      },
+      "6": {
+        "numId": "107",
+        "name": "288 găini",
+        "description": "produce aproximativ 83520 ouă în primul an",
+        "features": "288 găini, include chiria pentru 1 an, adaugă asigurare"
+      }
+    },
+    "buttons": {
+      "submit": "Cumpără acum",
+      "cancel": "Anulează",
+      "processing": "Procesare",
+      "done": "Gata"
+    }
+  },
+  "Store": {
+    "tag": "Experimentează următoarea generație de agricultură",
+    "title": "Începe cu New Yolk",
+    "link": "Vezi detaliile complete",
+    "hen": "găină",
+    "saved": "economisit",
+    "buy": "cumpără",
+    "reinvest": "reinvestește",
+    "discount": "reducere",
+    "insurance": "Asigurare",
+    "addInsurance": "Adaugă asigurare",
+    "insured": "Asigurat",
+    "discountApplied": "Reducere aplicată",
+    "card": "Card",
+    "items": {
+      "romania": {
+        "1": {
+          "numId": "1",
+          "name": "Starter",
+          "hens": "1",
+          "eggs": "320",
+          "perHen": "16.99",
+          "priceInUsd": "16.99",
+          "image": "/images/asset/pack/v2/Starter.jpg",
+          "description": "produce aproximativ 320 ouă în primul an",
+          "features": "1 găină, include chiria pentru 1 an, adaugă asigurare"
+        },
+        "2": {
+          "numId": "2",
+          "name": "Standard",
+          "hens": "15",
+          "eggs": "4800",
+          "priceInUsd": "249",
+          "image": "/images/asset/pack/v2/Standard.jpg",
+          "description": "produce aproximativ 4800 ouă în primul an",
+          "perHen": "16.65",
+          "features": "15 găini, include chiria pentru 1 an, adaugă asigurare"
+        },
+        "3": {
+          "numId": "3",
+          "name": "Premium",
+          "hens": "77",
+          "eggs": "24640",
+          "description": "produce aproximativ 24640 ouă în primul an",
+          "priceInUsd": "1249",
+          "perHen": "16.23",
+          "features": "77 găini, include chiria pentru 1 an, adaugă asigurare",
+          "image": "/images/asset/pack/v2/Premium.jpg"
+        },
+        "4": {
+          "numId": "4",
+          "name": "Advanced",
+          "hens": "160",
+          "eggs": "51200",
+          "priceInUsd": "2499",
+          "image": "/images/asset/pack/v2/Advanced.jpg",
+          "description": "produce aproximativ 51200 ouă în primul an",
+          "perHen": "15.63",
+          "features": "160 găini, include chiria pentru 1 an, adaugă asigurare"
+        },
+        "5": {
+          "numId": "5",
+          "name": "Elite",
+          "hens": "337",
+          "eggs": "107840",
+          "priceInUsd": "4999",
+          "image": "/images/asset/pack/v2/Elite.jpg",
+          "description": "produce aproximativ 107840 ouă în primul an",
+          "perHen": "14.84",
+          "features": "337 găini, include chiria pentru 1 an, adaugă asigurare"
+        },
+        "6": {
+          "numId": "6",
+          "name": "Ultimate",
+          "hens": "710",
+          "eggs": "227200",
+          "priceInUsd": "9999",
+          "image": "/images/asset/pack/v2/Ultimate.jpg",
+          "description": "produce aproximativ 227200 ouă în primul an",
+          "perHen": "14.08",
+          "features": "710 găini, include chiria pentru 1 an, adaugă asigurare"
+        },
+        "7": {
+          "numId": "7",
+          "name": "Ou de incubare",
+          "hens": "1",
+          "eggs": "320",
+          "perHen": "2.1",
+          "priceInUsd": "2.1",
+          "image": "/images/asset/egg/hatchingEgg.jpg",
+          "description": "ou fertilizat care va ecloza într-un pui",
+          "features": "1 găină, include chiria pentru 1 an, adaugă asigurare"
+        },
+        "8": {
+          "numId": "8",
+          "name": "Ou în incubare",
+          "hens": "1",
+          "eggs": "320",
+          "perHen": "5.04",
+          "priceInUsd": "5.04",
+          "image": "/images/asset/egg/incubatingEgg.jpg",
+          "description": "ou fertilizat care este în curs de eclozare într-un pui",
+          "features": "1 găină, include chiria pentru 1 an, adaugă asigurare"
+        },
+        "9": {
+          "numId": "9",
+          "name": "Pui",
+          "hens": "1",
+          "eggs": "320",
+          "perHen": "7",
+          "priceInUsd": "7",
+          "image": "/images/asset/growth/hatched.jpg",
+          "description": "produce aproximativ 320 de ouă în primul an după ce a crescut",
+          "features": "1 găină, include chiria pentru 1 an, adaugă asigurare"
+        }
+      },
+      "iraq": {
+        "1": {
+          "numId": "101",
+          "name": "Starter",
+          "hens": "9",
+          "image": "/images/asset/pack/v2/Starter.jpg",
+          "description": "produce aproximativ 2610 ouă în primul an",
+          "features": "9 găini, include chiria pentru 1 an, adaugă asigurare"
+        },
+        "2": {
+          "numId": "102",
+          "name": "Standard",
+          "hens": "18",
+          "image": "/images/asset/pack/v2/Standard.jpg",
+          "description": "produce aproximativ 5220 ouă în primul an",
+          "features": "18 găini, include chiria pentru 1 an, adaugă asigurare"
+        },
+        "3": {
+          "numId": "103",
+          "name": "Premium",
+          "hens": "90",
+          "description": "produce aproximativ 26100 ouă în primul an",
+          "features": "90 găini, include chiria pentru 1 an, adaugă asigurare",
+          "image": "/images/asset/pack/v2/Premium.jpg"
+        },
+        "4": {
+          "numId": "104",
+          "name": "Advanced",
+          "hens": "189",
+          "image": "/images/asset/pack/v2/Advanced.jpg",
+          "description": "produce aproximativ 54810 ouă în primul an",
+          "features": "189 găini, include chiria pentru 1 an, adaugă asigurare"
+        },
+        "5": {
+          "numId": "105",
+          "name": "Elite",
+          "hens": "450",
+          "image": "/images/asset/pack/v2/Elite.jpg",
+          "description": "produce aproximativ 130500 ouă în primul an",
+          "features": "450 găini, include chiria pentru 1 an, adaugă asigurare"
+        },
+        "6": {
+          "numId": "106",
+          "name": "Ultimate",
+          "hens": "900",
+          "image": "/images/asset/pack/v2/Ultimate.jpg",
+          "description": "produce aproximativ 261000 ouă în primul an",
+          "features": "900 găini, include chiria pentru 1 an, adaugă asigurare"
+        }
+      }
+    }
+  },
+  "Roadmap": {
+    "hero": {
+      "heading": {
+        "title": "Fezandă de drum",
+        "text": "Descoperiți fezandă de drum către succesul New Yolk, conturând pașii strategici și jaloanele pentru a crea un ecosistem de farming digital prosper care aduce împreună tehnologia, sustenabilitatea și rentabilitatea."
+      }
+    },
+    "short": {
+      "heading": {
+        "tag": "Pregătit să începi",
+        "title": "La ce lucrăm"
+      },
+      "button": "Fezandă noastră de drum",
+      "1": {
+        "title": "Recompense și stimulente",
+        "text": "Implementați elemente de gamificare în ecosistemul de farming, introducând recompense, insigne și clasamente pentru a motiva agricultorii și părțile interesate să participe activ la platforma New Yolk.",
+        "date": "Oct 2023",
+        "imageUrl": "/images/roadmap/image-2.png",
+        "status": "În progres",
+        "colorful": "true",
+        "completed": "false"
+      },
+      "2": {
+        "title": "Gestionare agricola automatizată",
+        "text": "Implementați tehnologii de automatizare, cum ar fi senzori IoT și algoritmi AI, pentru a optimiza procesele agricole și a îmbunătăți eficiența operațională. Aceasta include irigare automată, gestionarea precisă a nutrienților și monitorizare la distanță, permițând agricultorilor să obțină o productivitate mai mare și o utilizare mai bună a resurselor.",
+        "date": "Dec 2023",
+        "imageUrl": "/images/roadmap/image-3.png",
+        "status": "În progres",
+        "completed": "false",
+        "colorful": "true"
+      },
+      "3": {
+        "title": "Piață integrată",
+        "text": "Extindeți ferma New Yolk cu o platformă de piață integrată, folosind tehnologia pentru a permite tranzacții directe între agricultori și consumatori. Acest lucru permite agricultorilor să vândă direct produsele lor, evitând intermediarii, și asigură prețuri corecte și transparență pentru consumatori.",
+        "date": "Ian 2024",
+        "imageUrl": "/images/roadmap/image-7.png",
+        "status": "În progres",
+        "completed": "false",
+        "colorful": "true"
+      },
+      "4": {
+        "title": "Trasabilitate și integrarea lanțului de aprovizionare",
+        "text": "Integrați ferma New Yolk cu soluții de lanț de aprovizionare pentru a permite un urmărire transparentă și trasabilă a produselor de la fermă la consumator. Acest lucru îmbunătățește încrederea, reduce frauda alimentară și permite consumatorilor să verifice originea și calitatea produselor.",
+        "date": "Mar 2024",
+        "imageUrl": "/images/roadmap/image-5.png",
+        "status": "În progres",
+        "completed": "false",
+        "colorful": "true"
+      }
+    },
+    "full": {
+      "1": {
+        "title": "Definirea problemei",
+        "text": "Identificați problema pe care ferma noastră o va rezolva. Determinați publicul țintă și nevoile acestuia.",
+        "date": "Mar 2023",
+        "status": "Finalizat",
+        "started": "true",
+        "completed": "true"
+      },
+      "2": {
+        "title": "Colectarea datelor",
+        "text": "Colectați date care vă vor ajuta să înțelegeți publicul țintă și nevoile acestuia. Acestea pot include sondaje de opinie, feedback și alte surse de date.",
+        "date": "Apr 2023",
+        "status": "Finalizat",
+        "started": "true",
+        "completed": "true"
+      },
+      "3": {
+        "title": "Proiectarea fermei New Yolk",
+        "text": "Proiectați ferma New Yolk care va fi coloana vertebrală a aplicației noastre. Determinați caracteristicile și funcționalitățile necesare.",
+        "date": "Mai 2023",
+        "status": "Finalizat",
+        "started": "true",
+        "completed": "true"
+      },
+      "4": {
+        "title": "Construirea aplicației",
+        "text": "Construiți aplicația în jurul fermei și al găinilor digitale. Determinați interfața utilizatorului, caracteristicile și funcționalitățile necesare.",
+        "date": "Mai 2023",
+        "status": "În progres",
+        "started": "true",
+        "completed": "false"
+      },
+      "5": {
+        "title": "Testarea aplicației",
+        "text": "Testați aplicația pentru a asigura că îndeplinește cerințele și funcționează conform intenției.",
+        "date": "Iun 2023",
+        "status": "În progres",
+        "started": "true",
+        "completed": "false"
+      },
+      "6": {
+        "title": "Lansarea aplicației",
+        "text": "Lansați aplicația și promovați-o prin diverse canale, cum ar fi social media, marketing prin e-mail și publicitate plătită.",
+        "date": "Iun 2023",
+        "status": "În progres",
+        "started": "true",
+        "completed": "false"
+      },
+      "7": {
+        "title": "Pre-vânzarea găinilor digitale",
+        "text": "Pre-vindeți găinile digitale care vor fi utilizate pentru a participa în ecosistemul New Yolk.",
+        "date": "Iun 2023",
+        "status": "În progres",
+        "started": "true",
+        "completed": "false"
+      },
+      "8": {
+        "title": "Lansarea pieței",
+        "text": "Lansați piața unde utilizatorii pot tranzacționa găini digitale.",
+        "date": "Aug 2023",
+        "status": "Neînceput",
+        "started": "false",
+        "completed": "false"
+      },
+      "9": {
+        "title": "Cumpărați găini digitale",
+        "text": "Permiteți utilizatorilor să cumpere propriile găini digitale în ecosistemul nostru.",
+        "date": "Sep 2023",
+        "status": "Neînceput",
+        "started": "false",
+        "completed": "false"
+      },
+      "10": {
+        "title": "Farming de păsări",
+        "text": "Lansați funcționalitatea de farming de păsări a aplicației, unde utilizatorii pot crește găinile lor digitale, colecta ouă și retrage recompense.",
+        "date": "Oct 2023",
+        "status": "Neînceput",
+        "started": "false",
+        "completed": "false"
+      },
+      "11": {
+        "title": "Faza II",
+        "text": "Ceva mare urmează. Rămâneți conectați!",
+        "date": "Martie 2024",
+        "status": "Neînceput",
+        "started": "false",
+        "completed": "false"
+      }
+    }
+  },
+  "Join": {
+    "title1": "Fii parte din viitor cu ",
+    "title2": "New Yolk",
+    "text": "Alătură-te în misiunea noastră de a transforma agricultura prin tehnologie, creând un viitor al transparenței și eficienței.",
+    "button": "Începe acum"
+  },
+  "Contact": {
+    "title": "Ai nevoie de ajutor?",
+    "subtitle": "Dacă nu găsești răspunsul, contactează-ne și îți vom răspunde cât mai curând posibil.",
+    "community": {
+      "title": "Alătură-te comunității noastre",
+      "text": "Discută orice cu alți utilizatori",
+      "href": "https://discord.gg/bRKdZKJh2J"
+    },
+    "email": {
+      "title": "Email",
+      "text": "contact@newyolk.io",
+      "href": "mailto:contact@newyolk.io"
+    },
+    "whatsapp": {
+      "title": "Whatsapp",
+      "text": "+4 0793 363 091",
+      "href": "https://wa.me/40793363091"
+    },
+    "contactForm": {
+      "firstName": "Prenume",
+      "lastName": "Nume",
+      "email": "Email",
+      "phoneNumber": "Număr de telefon (opțional)",
+      "message": "Mesaj",
+      "button": "Trimite mesaj"
+    },
+    "map": {
+      "heading": {
+        "title": "Locațiile Noastre",
+        "text": "Suntem o companie globală cu birouri în România, Emiratele Arabe Unite și Irak. Sediul nostru central și fermele noastre sunt situate în România."
+      },
+      "locations": {
+        "1": {
+          "type": "office",
+          "country": "România",
+          "city": "București",
+          "state": "Sector 4",
+          "address": "Bulevardul Unirii 72",
+          "latitude": "44.425455",
+          "longitude": "26.124676"
+        },
+        "2": {
+          "type": "office",
+          "country": "Iraq",
+          "city": "Baghdad",
+          "state": "Jamila",
+          "address": "Street 71",
+          "latitude": "33.30078700808153",
+          "longitude": "44.38534640693379"
+        },
+        "3": {
+          "type": "farm",
+          "country": "România",
+          "city": "Grindu",
+          "state": "Ialomița",
+          "address": "",
+          "latitude": "44.771812",
+          "longitude": "26.904951"
+        },
+        "4": {
+          "type": "farm",
+          "country": "România",
+          "city": "Măneciu",
+          "state": "Prahova",
+          "address": "1321A",
+          "latitude": "45.292058",
+          "longitude": "25.979218"
+        }
+      }
+    },
+    "documents": {
+      "heading": {
+        "title": "Documente",
+        "text": "Aici puteți găsi documentele și certificatele companiei"
+      },
+      "socialHeadquarters": "Sediu social: București, România | Sector 1, Pitar Moș 27",
+      "workPoint": "Punct de lucru: București, România | Sector 3, Bulevardul Unirii 72",
+      "docs": {
+        "1": {
+          "name": "Certificat de înregistrare",
+          "path": "certificate-of-registration.pdf",
+          "fullPath": "documents/certificate-of-registration.pdf"
+        }
+      },
+      "companyIDs": {
+        "1": { "name": "CUI", "value": "48649372" },
+        "2": { "name": "EUID", "value": "ROONRC.J40/15278/2023" },
+        "3": { "name": "Nr. Reg. Com.", "value": "J40/1234/2021" }
+      }
+    },
+    "management": {
+      "heading": {
+        "title": "Management",
+        "text": "Echipa noastră de management este un grup de profesioniști cu înaltă experiență care lucrează în industriile lor de mulți ani"
+      },
+      "members": {
+        "1": {
+          "position": "CEO",
+          "name": "Mouhab Ali Yaseen Al Saedi",
+          "email": "mahab@newyolk.io"
+        },
+        "2": {
+          "position": "CSO",
+          "name": "Ahmed Mezaal",
+          "email": "ahm@newyolk.io"
+        }
+      }
+    }
+  },
+  "Faq": {
+    "heading": {
+      "title": "Întrebări frecvente",
+      "text": "Nu ai găsit ce căutai?",
+      "a": "Contactează-ne"
+    },
+    "1": {
+      "title": "Ce este New Yolk?",
+      "text": "New Yolk este o platformă inovatoare de farming online care permite indivizilor să se angajeze în activități de agricultură din confortul propriei case. Prin New Yolk, utilizatorii pot colecta găini virtuale unice și valoroase. Aceste obiecte de colecție pot fi îngrijite și schimbate în cadrul ecosistemului New Yolk, creând o comunitate vibrantă și captivantă de farming online."
+    },
+    "2": {
+      "title": "Cum funcționează New Yolk?",
+      "text": "New Yolk oferă o platformă și sigură pentru activitățile de farming online. Utilizatorii pot colecta găini virtuale și le pot îngriji prin diferite etape de creștere. Obiectele de colecție sunt stocate în siguranță, asigurând transparență, autenticitate și raritate. Utilizatorii pot participa la activități de farming, schimba obiectele lor de colecție și participa în comunitatea New Yolk."
+    },
+    "3": {
+      "title": "Care sunt beneficiile de a deveni fermier pe New Yolk?",
+      "text": "Devenind fermier pe New Yolk, vei beneficia de mai multe avantaje. Poți experimenta activitatea de farming fără a avea nevoie de teren fizic sau echipamente. Oferă o modalitate distractivă și captivantă de a te conecta cu comunitatea de farming, de a schimba găini și de a participa la evenimente de farming virtuale. În plus, ca fermier, ai potențialul de a câștiga recompense și recunoaștere în cadrul ecosistemului New Yolk."
+    },
+    "4": {
+      "title": "Cum pot începe ca fermier pe New Yolk?",
+      "text": "Pentru a începe ca fermier pe New Yolk, vizitează pur și simplu site-ul nostru și creează-ți un cont. Apoi, poți explora obiectele de colecție disponibile, colecta găinile tale și începe călătoria ta de farming. New Yolk oferă instrumente și resurse prietenoase cu utilizatorul pentru a te ghida în proces și pentru a asigura o experiență plăcută și recompensatoare de farming."
+    },
+    "5": {
+      "title": "Cum pot contacta suportul New Yolk?",
+      "text": "Dacă ai întrebări sau ai nevoie de suport în legătură cu New Yolk, echipa noastră dedicată de suport pentru clienți este aici pentru a te asista. Poți să ne contactezi prin intermediul formularului de contact de pe site-ul nostru sau să trimiți un email la contact@newyolk.com. Suntem dedicați să oferim asistență promptă și utilă pentru a asigura o experiență fără probleme ca fermier pe platforma noastră."
+    }
+  },
+  "Settings": {
+    "sidebarNav": {
+      "1": {
+        "title": "Cont",
+        "url": "/settings"
+      },
+      "2": {
+        "title": "Notificări",
+        "url": "/settings/notifications"
+      },
+      "3": {
+        "title": "Documente personale",
+        "url": "/settings/documents"
+      }
+    },
+    "title": "Setări",
+    "subtitle": "Gestionează setările contului tău, notificările și preferințele de plată.",
+    "account": {
+      "title": "Cont",
+      "subtitle": "Actualizează detaliile contului tău și setează limba preferată.",
+      "form": {
+        "firstName": "Prenume",
+        "lastName": "Nume",
+        "avatar": "Avatar",
+        "email": "Email",
+        "phoneNumber": {
+          "text": "Număr de telefon",
+          "description": "Acesta este numărul de telefon care va fi folosit pentru a te contacta și identifica."
+        },
+        "address": {
+          "text": "Adresă",
+          "description": "Adresa ta rezidențială curentă."
+        },
+        "address2": {
+          "text": "Adresă 2",
+          "description": "Detalii suplimentare precum etajul sau apartamentul."
+        },
+        "province": {
+          "text": "Județ",
+          "description": "Județul sau statul tău rezidențial curent."
+        },
+        "city": {
+          "text": "Oraș",
+          "description": "Orașul tău rezidențial curent."
+        },
+        "postalCode": {
+          "text": "Cod poștal",
+          "description": "Codul tău poștal rezidențial curent."
+        },
+        "dateOfBirth": {
+          "text": "Data nașterii",
+          "description": "Data nașterii tale este folosită pentru a calcula vârsta ta."
+        },
+        "language": {
+          "text": "Limba",
+          "description": "Aceasta este limba care va fi folosită în aplicație."
+        },
+        "button": "Actualizează contul"
+      }
+    },
+    "notifications": {
+      "title": "Notificări",
+      "subtitle": "Configurează modul în care primești notificări.",
+      "form": {
+        "emailNotifications": "Notificări prin email",
+        "notificationAllowed": {
+          "label": "Notifică-mă despre...",
+          "radioGroup": {
+            "1": {
+              "label": "Toate activitățile"
+            },
+            "2": {
+              "label": "Numai activitățile importante"
+            },
+            "3": {
+              "label": "Nimic"
+            }
+          }
+        },
+        "isMarketingEnabled": {
+          "label": "Emailuri de marketing",
+          "description": "Primește emailuri despre produse noi, funcționalități și multe altele."
+        },
+        "isSecurityEnabled": {
+          "label": "Emailuri de securitate",
+          "description": "Primește emailuri despre activități suspecte ale contului tău și securitate."
+        },
+        "button": "Actualizează notificările"
+      }
+    },
+    "documents": {
+      "title": "Documente Personale",
+      "subtitle": "Încărcați documentele personale pentru a vă verifica identitatea și a accesa toate funcțiile platformei.",
+      "complete": {
+        "title": "Verificare completă",
+        "subtitle": "Contul dvs. este acum verificat."
+      },
+      "pending": {
+        "title": "Verificare în așteptare",
+        "subtitle": "Contul dvs. este în curs de verificare. Acest proces poate dura până la 48 de ore."
+      },
+      "form": {
+        "passport": {
+          "label": "Încărcați pașaportul sau ID-ul",
+          "description": "Acest lucru este necesar pentru a vă verifica identitatea."
+        },
+        "contract": {
+          "label": "Încărcați contractul dvs. New Yolk",
+          "description": "Acest lucru este necesar pentru a avea acces la ferma dvs. digitală."
+        },
+        "button": {
+          "submit": "Trimite"
+        }
+      },
+      "toast": {
+        "pending": "Încărcarea documentelor ...",
+        "success": "Documentele au fost încărcate cu succes! 👌",
+        "error": "Încărcarea documentelor a eșuat 🤯"
+      }
+    }
+  },
+  "Farm": {
+    "heading": "ÎNCEARCĂ URMĂTOAREA GENERAȚIE DE FERMĂ",
+    "farm": "Fermă",
+    "buy": "Cumpără",
+    "deposit": "Depozit",
+    "reinvest": "Reinvestește",
+    "assets": "Bunuri",
+    "extendRent": "Prelungirea chiriei",
+    "extendRentDescription": "Prelungește perioada de închiriere a bunurilor tale",
+    "total": "Total",
+    "submit": "Trimite",
+    "cancel": "Anulează",
+    "yield": {
+      "title": "Recolta",
+      "daily": "Recompense și hrană zilnică",
+      "total": "Total câștigat și hrănit",
+      "remaining": "Rămas"
+    },
+    "exchange": {
+      "youPay": "Plătești",
+      "youReceive": "Primești",
+      "button": "Schimbă",
+      "toast": {
+        "pending": "Se schimbă YOLK pentru CORN ...",
+        "success": "CORN adăugat la balanță! 👌",
+        "error": "Schimbul YOLK a eșuat 🤯",
+        "insufficientBalance": "Balanță YOLK insuficientă 😢"
+      }
+    },
+    "balance": {
+      "title": "Balanță",
+      "rewardsAvailable": "Recompense disponibile",
+      "foodNeeded": "Hrană necesară",
+      "button": "Hrănește",
+      "marketplace": "Piață",
+      "toast": {
+        "handleFeed": "Trebuie să aștepți ca bunurile tale să producă ceva...",
+        "feed": {
+          "pending": "Se hrănesc bunurile ...",
+          "success": "Bunurile au fost hrănite! 👌",
+          "error": "Hrănirea bunurilor a eșuat 🤯"
+        }
+      }
+    },
+    "poultry": {
+      "title": "Păsări",
+      "growingUp": "În creștere",
+      "farming": "Ferma",
+      "available": "Disponibil",
+      "chicks": "Pui",
+      "roosters": "Cocoși",
+      "hens": "Găini",
+      "cattles": "Vite",
+      "bulls": "Tauri",
+      "heifers": "Junci",
+      "cockerels": "Cocoșei",
+      "dialog": {
+        "buyHens": "Cumpără găini",
+        "farm": "Ferma",
+        "title": "Confirmă Cantitatea",
+        "description": "Introdu câte dintre găinile tale disponibile dorești să începi să le crești:",
+        "label": "Cantitate",
+        "max": "Maxim",
+        "button": "Confirmă",
+        "toast": {
+          "pending": "Se trimit găinile la fermă ...",
+          "success": "Găinile au început să fie crescute! 👌",
+          "error": "Eșec la primirea găinilor 🤯"
+        }
+      }
+    },
+    "gift": {
+      "title": "Cadoul de Anul Nou",
+      "notAvailable": "Va fi disponibil în",
+      "available": "Disponibil acum",
+      "open": "Aici poți deschide cadoul tău",
+      "text": "În spiritul sărbătorilor, New Yolk oferă un cadou special de Anul Nou pentru toți fermierii. Cadoul conține recompense valoroase, cum ar fi găini, ouă și multe altele. Deschide cadoul tău acum și vezi ce ai câștigat!",
+      "button": "Detalii",
+      "close": "Închide",
+      "openShort": "Deschide",
+      "carousel": {
+        "click": "Click pe cadou pentru a-l deschide!",
+        "openShort": "Deschide",
+        "tryAgain": "Deschide alt cadou",
+        "description": "Costă 79 YOLK și vei primi una dintre următoarele recompense:",
+        "uniqueOutcomes": {
+          "1": "Vaci Holstein",
+          "2": "Cocoș",
+          "3": "Gaină",
+          "4": "Ou fertilizat",
+          "5": "Pui",
+          "6": "Cocoșel",
+          "7": "YOLK",
+          "8": "MILK",
+          "9": "CORN",
+          "10": "HAY",
+          "11": "Discount"
+        }
+      },
+      "terms": {
+        "title": "Termeni și Condiții pentru deschiderea unui cadou:",
+        "list": {
+          "1": "Trebuie să fii utilizator al platformei New York, prima fermă inteligentă online.",
+          "2": "O sumă de 50 YOLK (nerambursabili) va fi dedusă din contul tău când faci click pe imaginea cadoului.",
+          "3": "Când câștigi o reducere, aceasta poate fi utilizată o singură dată.",
+          "4": "Un ou fertilizat este un ou fertilizat de un cocoș pe care mama îl poate incuba și crește. Ca utilizator al platformei New York, poți ecloza oul fertilizat într-un pui și apoi să-l crești într-o găină care va produce ouă."
+        },
+        "accept": "Acceptă termenii și condițiile",
+        "agree": "Ești de acord cu termenii de mai sus și cu Termenii și Condițiile de utilizare și Politica de Confidențialitate a site-ului nostru.",
+        "button": "Trimite",
+        "toast": {
+          "pending": "Acceptând termenii și condițiile ...",
+          "success": "Ai acceptat termenii și condițiile! 👌",
+          "error": "Eșec la acceptarea termenilor și condițiilor 🤯"
+        }
+      }
+    }
+  },
+  "Assets": {
+    "page": "Pagină",
+    "of": "din",
+    "title": "Active",
+    "marketplace": {
+      "list": "Listează",
+      "delist": "Delistează",
+      "listed": "Listat",
+      "salesOverview": "Prezentare vânzări",
+      "totalRevenue": "Venit total",
+      "average": "Medie",
+      "highest": "Cel mai mare",
+      "lowest": "Cel mai mic",
+      "buy": "Cumpără",
+      "buyFloor": "Cumpără la minim",
+      "price": "Preț",
+      "remaining": "Rămas",
+      "topBid": "Cea mai mare ofertă",
+      "floorPrice": "Preț minim",
+      "active": "Activ",
+      "assetId": "ID activ",
+      "listItems": "Listează articole",
+      "noItems": "Nu s-au găsit articole",
+      "setAllTo": "Setează toate la",
+      "liveFloor": "Minim curent",
+      "proceeds": "Venituri",
+      "forSale": "De vânzare",
+      "total": "Total",
+      "floor": "Minim",
+      "selected": "Selectat",
+      "marketplaceFee": "Taxă piață",
+      "totalEstProceeds": "Venituri estimate totale",
+      "autoAdjustForFees": "Ajustare automată pentru taxe",
+      "duration": "Durată",
+      "expires": "Expiră",
+      "item": "Articol",
+      "items": "Articole",
+      "priceCannotBeZero": "Prețul nu poate fi 0",
+      "delistDescription": "Elimină articolele listate din marketplace.",
+      "totalListedValue": "valoarea totală listată",
+      "charts": "Grafice",
+      "cancel": "Anulează",
+      "toasts": {
+        "createListings": {
+          "pending": "Se creează listările...",
+          "success": "Listările au fost create!",
+          "error": "Eroare la crearea listărilor"
+        },
+        "delist": {
+          "pending": "Se delistează...",
+          "success": "Delistat!",
+          "error": "Eroare la delistare"
+        }
+      },
+      "activity": "Activitate",
+      "sales": "Vânzări",
+      "owned": "Owned",
+      "durations": {
+        "1": { "label": "1 oră", "value": "3600000" },
+        "2": { "label": "3 ore", "value": "10800000" },
+        "3": { "label": "1 zi", "value": "86400000" },
+        "4": { "label": "3 zile", "value": "259200000" },
+        "5": { "label": "1 săptămână", "value": "604800000" },
+        "6": { "label": "30 zile", "value": "2592000000" },
+        "7": { "label": "6 luni", "value": "15552000000" }
+      },
+      "listingFilters": {
+        "1": {
+          "label": "Preț crescător",
+          "value": "price_asc",
+          "orderBy": {
+            "buyNowPrice": "asc"
+          }
+        },
+        "2": {
+          "label": "Preț descrescător",
+          "value": "price_desc",
+          "orderBy": {
+            "buyNowPrice": "desc"
+          }
+        },
+        "3": {
+          "label": "Listate recent",
+          "value": "createdAt_desc",
+          "orderBy": {
+            "createdAt": "desc"
+          }
+        },
+        "4": {
+          "label": "Cele mai vechi",
+          "value": "createdAt_asc",
+          "orderBy": {
+            "createdAt": "asc"
+          }
+        }
+      }
+    },
+    "card": {
+      "youOwnPack": "Deții un pachet",
+      "youOwnHen": "Deții o găină",
+      "youOwnEgg": "Deții un ou",
+      "notFarming": "Nu produce",
+      "notHatching": "Nu eclozează",
+      "hatching": "Eclozează",
+      "insured": "Asigurat",
+      "yes": "Da",
+      "no": "Nu",
+      "eggs": "Ouă",
+      "farming": "Producție",
+      "hens": "Găini"
+    },
+    "hen": {
+      "farmingDetails": "Detalii producție",
+      "ownedBy": "Deținut de",
+      "description": "Ai grijă de găina ta și culege recompensele financiare din vânzarea ouălor în ecosistemul nostru prosper.",
+      "maleDescription": "Ai grijă de cocoșul tău și culege recompensele financiare din ouăle fertilizate în ecosistemul nostru prosper.",
+      "production": "Produce aproximativ 320 ouă în primul an.",
+      "maleProduction": "Produce aproximativ 180 ouă fertilizate anual.",
+      "deadDescription": "A murit la",
+      "insured": "Asigurat",
+      "yes": "Da",
+      "no": "Nu",
+      "isGrowing": "Crește",
+      "isFarming": "Produce",
+      "isInsured": "Este asigurat",
+      "rewards": "Recompense",
+      "food": "Mâncare",
+      "dailyProduction": "Producție zilnică",
+      "dailyFood": "Mâncare zilnică",
+      "daily": "Producție zilnică de ouă",
+      "farmingSince": "Produce din",
+      "growingSince": "Crește din",
+      "startFarming": "Începe producția la",
+      "rent": "Chirie valabilă până la",
+      "days": "Zile",
+      "growthSchedule": "Program creștere",
+      "rewardSchedule": "Program recompense",
+      "oneTimeReward": "Recompensă unică",
+      "total": "Total",
+      "buttons": {
+        "burn": "Arde",
+        "evolve": "Evoluează",
+        "startBreed": "Începe împerecherea",
+        "finishBreed": "Finalizează împerecherea"
+      },
+      "toasts": {
+        "burn": {
+          "pending": "Se arde... ",
+          "success": "Ars! 🔥",
+          "error": "Eroare la ardere 🤯"
+        },
+        "evolve": {
+          "pending": "Se evoluează... ",
+          "success": "Evoluție reușită! 🌟",
+          "error": "Eroare la evoluție 🤯"
+        },
+        "startBreed": {
+          "pending": "Se începe împerecherea ...",
+          "success": "Împerechere începută cu succes! 👌",
+          "error": "Eroare la împerechere 🤯"
+        },
+        "finishBreed": {
+          "pending": "Se finalizează împerecherea ...",
+          "success": "Împerechere finalizată cu succes! 👌",
+          "error": "Eroare la finalizarea împerecherii 🤯"
+        }
+      }
+    },
+    "pack": {
+      "pack": "Pachet",
+      "ownedBy": "Deținut de",
+      "youWillReceive": "Vei primi",
+      "the": " ",
+      "packContains": "Pachetul conține",
+      "hensEstimated": "Găini cu producție anuală estimată",
+      "description": "Schimbă pachetul de mai jos, începe să ai grijă de găinile tale și culege recompensele financiare din vânzarea ouălor în ecosistemul nostru prosper.",
+      "hens": "Găini",
+      "eggsPerYear": "Ouă anual",
+      "oneYearRent": "Chirie plătită pentru un an",
+      "button": "Schimbă",
+      "toast": {
+        "pending": "Se deschide pachetul... ",
+        "success": "Adăugat la fermă! 🐔",
+        "error": "A apărut o eroare 🤯"
+      }
+    },
+    "egg": {
+      "name": "Ou fertilizat",
+      "ownedBy": "Deținut de",
+      "description": "Ai grijă de ou și așteaptă perioada de incubație de 21 de zile. Curând vei întâmpina un pui nou care își va începe aventura.",
+      "isHatching": "Eclozează",
+      "rent": "Chirie valabilă până la",
+      "farmingSince": "Produce din",
+      "insured": "Asigurat",
+      "yes": "Da",
+      "no": "Nu",
+      "days": "Zile",
+      "hatchingDetails": "Detalii eclozare",
+      "buttons": {
+        "incubate": "Începe incubația",
+        "hatch": "Eclozează"
+      },
+      "toasts": {
+        "incubate": {
+          "pending": "Se începe incubația... ",
+          "success": "Incubație începută! 🥚",
+          "error": "Eroare la incubație 🤯"
+        },
+        "hatch": {
+          "pending": "Se eclozează oul... ",
+          "success": "Oul a eclozat! 🐣",
+          "error": "Eroare la eclozare 🤯"
+        }
+      }
+    },
+    "cattle": {
+      "farmingDetails": "Detalii producție",
+      "ownedBy": "Deținut de",
+      "deadDescription": "A murit la",
+      "description": "Ai grijă de bovina ta și culege recompensele financiare din vânzarea laptelui în ecosistemul nostru prosper.",
+      "maleDescription": "",
+      "initialReservation": "Rezervare inițială pentru achiziție",
+      "descriptionPresale": "Bovină Holstein - prima sarcină",
+      "gestationalAge": "Vârsta gestațională: 5-7 luni",
+      "milkProduction": "Producție de lapte: 8000-10000 litri de lapte anual",
+      "MILKIUM": "MILKIUM = 1 litru de lapte = $0.5 USD",
+      "expectedDateOfBirth": "Data estimată a nașterii: luna a noua de sarcină",
+      "noOfBirth": "Număr de nașteri: 3",
+      "note": "Notă: Dacă se naște un vițel, acesta poate fi vândut ca carne. Dacă o vacă femelă naște, ea va deveni mamă de lapte după maturizare.",
+      "dailyProduction": "Producție zilnică",
+      "production": "Produce aproximativ 9000 litri lapte anual.",
+      "maleProduction": "Poate fi vândută ca carne și vei primi o recompensă unică.",
+      "insured": "Asigurat",
+      "yes": "Da",
+      "no": "Nu",
+      "isGrowing": "Crește",
+      "isFarming": "Produce",
+      "daily": "Producție zilnică de lapte",
+      "farmingSince": "Produce din",
+      "growingSince": "Crește din",
+      "startFarming": "Începe producția la",
+      "rent": "Chirie valabilă până la",
+      "days": "Zile",
+      "growthSchedule": "Program creștere",
+      "rewardSchedule": "Program recompense",
+      "oneTimeReward": "Recompensă unică",
+      "total": "Total",
+      "button": "Trimite la fermă",
+      "toast": {
+        "pending1": "Se trimite",
+        "pending2": "la fermă ...",
+        "success": "Producția a început! 👌",
+        "error": "Eroare la primire"
+      }
+    }
+  },
+  "NotFoundPage": {
+    "title": "Pagina nu a fost găsită",
+    "heading": "Pagina Nu A Fost Găsită",
+    "description": "Ne pare rău, pagina pe care o căutați nu există."
+  },
+  "LocaleLayout": {
+    "title": "New Yolk",
+    "farm": "{Farm}"
+  },
+  "Terms": {
+    "cookiePolicy": {
+      "h1": "Politica de Cookie-uri",
+      "updated": "Actualizat la 2023-06-01",
+      "h2": "Definiții și termeni cheie",
+      "h3s": {
+        "1": "Introducere",
+        "2": "Ce este un cookie?",
+        "3": "De ce folosim cookie-uri?",
+        "4": "Ce tipuri de cookie-uri folosește New Yolk?",
+        "5": "Cookie-uri esențiale",
+        "6": "Cookie-uri de performanță și funcționalitate",
+        "7": "Cookie-uri de marketing",
+        "8": "Cookie-uri de analiză și personalizare",
+        "9": "Cookie-uri de social media",
+        "10": "Cookie-uri terțe",
+        "11": "Cum puteți gestiona cookie-urile?",
+        "12": "Blocarea și dezactivarea cookie-urilor și tehnologiilor similare",
+        "13": "Modificări ale Politicii noastre de Cookie-uri",
+        "14": "Consimțământul dvs.",
+        "15": "Contactați-ne"
+      },
+      "ps": {
+        "1": "Pentru a explica lucrurile cât mai clar posibil în această Politică de Cookie-uri, de fiecare dată când sunt menționați acești termeni, sunt definiți strict astfel:",
+        "2": "Această Politică de Cookie-uri explică modul în care New Yolk și afiliații săi (colectiv 'New Yolk', 'noi', 'nouă' și 'al nostru'), folosesc cookie-uri și tehnologii similare pentru a vă recunoaște atunci când vizitați site-ul nostru web, inclusiv, dar fără a se limita la https://www.newyolk.io și orice URL-uri conexe, versiuni mobile sau localizate și domenii/subdomenii conexe ('Site-uri web'). Explică ce sunt aceste tehnologii și de ce le folosim, precum și opțiunile pentru a le controla.",
+        "3": "Un cookie este un fișier text mic care este stocat pe computerul dvs. sau pe alt dispozitiv conectat la internet pentru a vă identifica browserul, a furniza analize, a reține informații despre dvs., cum ar fi preferința de limbă sau informațiile de autentificare. Sunt complet sigure și nu pot fi folosite pentru a rula programe sau a livra viruși pe dispozitivul dvs.",
+        "4": "Folosim cookie-uri proprii și/sau terțe pe site-ul nostru web pentru diverse scopuri, cum ar fi:",
+        "5": "Cookie-urile pot fi fie cookie-uri de sesiune, fie cookie-uri persistente. Un cookie de sesiune expiră automat când închideți browserul. Un cookie persistent va rămâne până când expiră sau ștergeți cookie-urile. Datele de expirare sunt setate în cookie-urile în sine; unele pot expira după câteva minute, în timp ce altele pot expira după mai mulți ani. Cookie-urile plasate de site-ul pe care îl vizitați se numesc 'cookie-uri proprii'.",
+        "6": "Cookie-urile strict necesare sunt necesare pentru ca site-ul nostru web să funcționeze și nu pot fi dezactivate în sistemele noastre. Sunt esențiale pentru a vă permite să navigați pe site și să utilizați funcțiile sale. Dacă eliminați sau dezactivați aceste cookie-uri, nu putem garanta că veți putea utiliza site-ul nostru web.",
+        "7": "Folosim următoarele tipuri de cookie-uri pe site-ul nostru web:",
+        "8": "Folosim cookie-uri esențiale pentru a face site-ul nostru să funcționeze. Aceste cookie-uri sunt strict necesare pentru a permite funcționalități de bază, cum ar fi securitatea, gestionarea rețelei, preferințele dvs. de cookie-uri și accesibilitatea. Fără ele, nu ați putea utiliza serviciile de bază. Le puteți dezactiva schimbând setările browserului dvs., dar acest lucru poate afecta modul în care funcționează site-urile web.",
+        "9": "Aceste cookie-uri sunt folosite pentru a îmbunătăți performanța și funcționalitatea site-ului nostru web, dar nu sunt esențiale pentru utilizarea acestuia. Cu toate acestea, fără aceste cookie-uri, anumite funcționalități, cum ar fi videoclipurile, pot deveni indisponibile sau ar trebui să introduceți detaliile de autentificare de fiecare dată când vizitați site-ul, deoarece nu am putea reține că v-ați autentificat anterior.",
+        "10": "Aceste cookie-uri de marketing bazate pe cont ne permit să identificăm perspectivele viitoare și să personalizăm interacțiunile de vânzări și marketing cu acestea.",
+        "11": "Aceste cookie-uri colectează informații care sunt folosite pentru a ne ajuta să înțelegem cum este utilizat site-ul nostru web sau cât de eficiente sunt campaniile noastre de marketing, sau pentru a ne ajuta să personalizăm site-ul nostru pentru dvs.",
+        "12": "Folosim cookie-uri servite de Google Analytics pentru a colecta date limitate direct de la browserele utilizatorilor finali pentru a ne permite să înțelegem mai bine utilizarea site-ului nostru web. Informații suplimentare despre modul în care Google colectează și folosește aceste date pot fi găsite la: https://www.google.com/policies/privacy-policy/partners/. Puteți renunța la toate analizele suportate de Google pe site-urile noastre web vizitând: https://tools.google.com/dlpage/gaoptout.",
+        "13": "Aceste cookie-uri sunt folosite atunci când partajați informații folosind un buton de partajare pe rețelele sociale sau un buton 'like' pe site-ul nostru sau vă conectați contul sau interacționați cu conținutul nostru pe sau printr-un site de rețea socială, cum ar fi Facebook, Twitter sau Google+. Rețeaua socială va înregistra că ați făcut acest lucru. Aceste cookie-uri pot include, de asemenea, un anumit cod care a fost plasat pe platformă pentru a ajuta la urmărirea conversiilor din reclame, optimizarea reclamelor pe baza datelor colectate, construirea de audiențe țintă pentru reclame viitoare și remarketing către utilizatorii calificați care au efectuat deja anumite acțiuni pe platformă.",
+        "14": "Unele cookie-uri care au fost setate pe site-ul nostru nu sunt setate pe o bază proprie de către New Yolk. Site-urile web pot fi integrate cu conținut de la terți pentru a servi publicitate. Acești furnizori de servicii terți pot seta propriile cookie-uri pe browserul dvs. web. Furnizorii de servicii terți controlează multe dintre cookie-urile de performanță și funcționalitate, publicitate, marketing și analiză descrise mai sus. Nu controlăm utilizarea acestor cookie-uri terțe, deoarece cookie-urile pot fi accesate doar de terțul care le-a setat inițial.",
+        "15": "Majoritatea browserelor vă permit să controlați cookie-urile prin preferințele 'setări'. Cu toate acestea, dacă limitați capacitatea site-urilor web de a seta cookie-uri, este posibil să vă înrăutățiți experiența generală de utilizare, deoarece nu va mai fi personalizată pentru dvs. De asemenea, este posibil să nu puteți salva setările personalizate, cum ar fi informațiile de autentificare. Producătorii de browsere oferă pagini de ajutor referitoare la gestionarea cookie-urilor în produsele lor.",
+        "16": "Producătorii de browsere oferă pagini de ajutor referitoare la gestionarea cookie-urilor în produsele lor. Vă rugăm să consultați mai jos pentru mai multe informații.",
+        "17": "Oriunde vă aflați, puteți seta browserul să blocheze cookie-urile și tehnologiile similare, dar această acțiune poate bloca cookie-urile noastre esențiale și poate împiedica funcționarea corectă a site-ului nostru web și este posibil să nu puteți utiliza pe deplin toate funcțiile și serviciile sale. De asemenea, trebuie să fiți conștienți că este posibil să pierdeți unele informații salvate (de exemplu, detalii de autentificare salvate, preferințe de site) dacă blocați cookie-urile în browserul dvs. Diferite browsere vă pun la dispoziție diferite controale. Dezactivarea unui cookie sau a unei categorii de cookie-uri nu șterge cookie-ul din browserul dvs., va trebui să faceți acest lucru singur din browserul dvs., ar trebui să vizitați meniul de ajutor al browserului pentru mai multe informații.",
+        "18": "Putem schimba Serviciul și politicile noastre și este posibil să fie necesar să facem modificări la această Politică de Cookie-uri pentru a reflecta corect Serviciul și politicile noastre. Cu excepția cazului în care este cerut de lege, vă vom notifica (de exemplu, prin intermediul Serviciului nostru) înainte de a face modificări la această Politică de Cookie-uri și vă vom oferi posibilitatea de a le revizui înainte de a intra în vigoare. Apoi, dacă continuați să utilizați Serviciul, veți fi obligat de Politica de Cookie-uri actualizată. Dacă nu doriți să fiți de acord cu aceasta sau cu orice Politică de Cookie-uri actualizată, vă puteți șterge contul.",
+        "19": "Prin utilizarea site-ului nostru web, înregistrarea unui cont sau efectuarea unei achiziții, vă dați consimțământul pentru Politica noastră de Cookie-uri și sunteți de acord cu termenii acesteia.",
+        "20": "Nu ezitați să ne contactați dacă aveți întrebări cu privire la politica noastră privind cookie-urile."
+      },
+      "uls": {
+        "1": {
+          "1": "Cookie: cantitate mică de date generate de un site web și salvate de browserul dvs. web. Este folosit pentru a identifica browserul dvs., a furniza analize, a reține informații despre dvs., cum ar fi preferințele de limbă sau informațiile de autentificare.",
+          "2": "Companie: când această politică menționează „Companie”, „noi”, „nouă” sau „al nostru”, se referă la New Yolk, care este responsabilă pentru informațiile dvs. în conformitate cu această Politică privind cookie-urile.",
+          "3": "Dispozitiv: orice dispozitiv conectat la internet, cum ar fi un telefon, tabletă, computer sau orice alt dispozitiv care poate fi folosit pentru a vizita New Yolk și a utiliza serviciile.",
+          "4": "Date personale: orice informație care permite identificarea sau identificabilitatea unei persoane fizice, direct, indirect sau în legătură cu alte informații — inclusiv un număr de identificare personal.",
+          "5": "Serviciu: se referă la serviciul furnizat de New Yolk, așa cum este descris în termenii relativi (dacă sunt disponibili) și pe această platformă.",
+          "6": "Serviciu terț: se referă la agenți de publicitate, sponsori de concursuri, parteneri promoționali și de marketing și alții care furnizează conținutul nostru sau ale căror produse sau servicii credem că v-ar putea interesa.",
+          "7": "Website: site-ul, care poate fi accesat prin acest URL: https://www.newyolk.io"
+        },
+        "2": {
+          "1": "Pentru a facilita funcționarea și funcționalitatea site-ului nostru web;",
+          "2": "Pentru a îmbunătăți experiența dvs. pe site-ul nostru web și pentru a face navigarea mai rapidă și mai ușoară;",
+          "3": "Pentru a ne permite să creăm o experiență personalizată pentru dvs. și pentru a înțelege ce este util sau de interes pentru dvs.;",
+          "4": "Pentru a analiza modul în care este utilizat site-ul nostru web și cum îl putem personaliza cel mai bine;",
+          "5": "Pentru a identifica perspectivele viitoare și a personaliza interacțiunile de marketing și vânzări cu acestea;",
+          "6": "Pentru a facilita personalizarea publicității online în funcție de interesele dvs.",
+          "7": "Dvs.: o persoană sau entitate care este înregistrată la New Yolk pentru a utiliza Serviciile."
+        },
+        "3": {
+          "1": "Google Chrome",
+          "2": "Internet Explorer",
+          "3": "Mozilla Firefox",
+          "4": "Safari (Desktop)",
+          "5": "Safari (Mobil)",
+          "6": "Browser Android",
+          "7": "Opera",
+          "8": "Opera Mobile"
+        }
+      }
+    },
+    "endUserLicenseAgreement": {
+      "h1": "Acord de Licență pentru Utilizatorul Final",
+      "updated": "Actualizat la 2023-06-01",
+      "h2": "Definiții și termeni cheie",
+      "h3s": {
+        "1": "Introducere",
+        "2": "Licență",
+        "3": "Restricții",
+        "4": "Proprietate Intelectuală",
+        "5": "Sugestiile dvs.",
+        "6": "Modificări ale aplicației",
+        "7": "Actualizări ale aplicației",
+        "8": "Termen și reziliere",
+        "9": "Despăgubire",
+        "10": "Fără garanții",
+        "11": "Limitarea răspunderii",
+        "12": "Divizibilitate",
+        "13": "Renunțare",
+        "14": "Amendamente la acest acord",
+        "15": "Legea aplicabilă",
+        "16": "Modificări ale acestui acord",
+        "17": "Nicio relație de angajare sau agenție",
+        "18": "Remediu echitabil",
+        "19": "Titluri",
+        "20": "Restricții geografice",
+        "21": "Limitarea timpului pentru depunerea cererilor",
+        "22": "Întregul acord",
+        "23": "Contactați-ne"
+      },
+      "ps": {
+        "1": "New Yolk vă acordă acces la https://www.newyolk.io („Website-ul”) și vă invită să achiziționați serviciile oferite aici.",
+        "2": "Pentru a explica lucrurile cât mai clar posibil în acest Eula, de fiecare dată când oricare dintre acești termeni sunt menționați, sunt definiți strict astfel:",
+        "3": "Acest Acord de Licență pentru Utilizatorul Final („Acordul”) este un acord obligatoriu între dvs. („Utilizatorul Final”, „dvs.” sau „al dvs.”) și New Yolk S.R.L („Compania”, „noi”, „nouă” sau „al nostru”). Acest Acord reglementează relația dintre dvs. și noi și utilizarea de către dvs. a Companiei New Yolk. Pe parcursul acestui Acord, Utilizatorul Final și Compania pot fi denumiți fiecare ca o „Parte” sau colectiv, „Părțile”.",
+        "4": "Dacă utilizați website-ul în numele angajatorului dvs. sau al unei alte entități (o „Organizație”) în beneficiul căreia utilizați website-ul sau care deține sau controlează în alt mod mijloacele prin care utilizați sau accesați website-ul, atunci termenii „Utilizator Final”, „dvs.” și „al dvs.” se vor aplica colectiv atât dvs. ca individ, cât și Organizației. Dacă utilizați sau achiziționați o licență pentru website în numele unei Organizații, recunoașteți, garantați și conveniți că aveți autoritatea de a 1) achiziționa o licență pentru website în numele Organizației; 2) obliga Organizația la termenii acestui Acord.",
+        "5": "Prin descărcarea, instalarea, accesarea sau utilizarea website-ului: (a) afirmați că aveți toate permisiunile și autorizațiile necesare pentru a accesa și utiliza website-ul; (b) dacă utilizați website-ul în conformitate cu o licență achiziționată de o organizație, sunteți autorizat de acea organizație să accesați și să utilizați website-ul; (c) recunoașteți că ați citit și că înțelegeți acest acord; (d) declarați că sunteți în deplinătatea facultăților mintale și aveți vârsta legală (18 ani sau mai mult) pentru a încheia un acord obligatoriu; și (e) acceptați și sunteți de acord să fiți legal obligați de termenii și condițiile acestui acord.",
+        "6": "Dacă nu sunteți de acord cu acești termeni, nu descărcați, instalați, accesați sau utilizați software-ul. Dacă ați descărcat deja software-ul, ștergeți-l de pe dispozitivul dvs. de calcul.",
+        "7": "Aplicația este licențiată, nu vândută, către dvs. de New Yolk pentru utilizare strict în conformitate cu termenii acestui Acord.",
+        "8": "Sub rezerva termenilor acestui Acord și, dacă este cazul, a termenilor prevăzuți în Acordul de Licență, New Yolk Farm vă acordă o licență limitată, neexclusivă, perpetuă, revocabilă și netransferabilă pentru a:",
+        "9": "(a) descărca, instala și utiliza Software-ul pe un (1) Dispozitiv de Calcul per licență de utilizator unic pe care ați achiziționat-o și vi s-a acordat. Dacă aveți mai multe Dispozitive de Calcul pe care doriți să utilizați Software-ul, sunteți de acord să achiziționați o licență pentru numărul de dispozitive pe care intenționați să le utilizați;",
+        "10": "(b) accesa, vizualiza și utiliza pe acel Dispozitiv de Calcul Materialele Furnizate de Utilizatorul Final puse la dispoziție în sau accesibile prin Software, strict în conformitate cu acest Acord și orice alți termeni și condiții aplicabile acestor Materiale Furnizate de Utilizatorul Final;",
+        "11": "(c) instala și utiliza versiunea de încercare a Software-ului pe orice număr de Dispozitive de Calcul pentru o perioadă de încercare de cincisprezece (15) zile unice după instalare.",
+        "12": "(d) primi actualizări și funcții noi care devin disponibile în perioada de un (1) an de la data la care ați achiziționat licența pentru Software.",
+        "13": "Toate drepturile de proprietate intelectuală, inclusiv drepturile de autor, brevetele, dezvăluirile de brevete și invențiile (fie că sunt brevetabile sau nu), mărcile comerciale, mărcile de servicii, secretele comerciale, know-how-ul și alte informații confidențiale, aspectul comercial, denumirile comerciale, logo-urile, denumirile corporative și numele de domenii, împreună cu toată bunăvoința asociată acestora, lucrările derivate și toate celelalte drepturi (colectiv, „Drepturi de Proprietate Intelectuală”) care fac parte din Software și care sunt deținute de New Yolk vor rămâne întotdeauna proprietatea exclusivă a New Yolk (sau a furnizorilor sau licențiatorilor săi, dacă și când este aplicabil). Nimic din acest Acord nu vă acordă (sau oricărei Organizații) o licență pentru Drepturile de Proprietate Intelectuală.",
+        "14": "Sunteți de acord că acest Acord transmite o licență limitată de utilizare a Drepturilor de Proprietate Intelectuală, exclusiv ca parte a Software-ului (și nu independent de acesta), și numai pentru Termenul efectiv al licenței acordate dvs. în temeiul prezentului. În consecință, utilizarea de către dvs. a oricăror Drepturi de Proprietate Intelectuală independent de Software sau în afara domeniului de aplicare al acestui Acord va fi considerată o încălcare a Drepturilor de Proprietate Intelectuală. Acest lucru nu va limita, totuși, orice pretenție pe care New Yolk o poate avea pentru o încălcare a contractului în cazul în care încălcați un termen sau o condiție a acestui Acord. Trebuie să utilizați cel mai înalt standard de grijă pentru a proteja tot Software-ul (inclusiv toate copiile acestuia) de încălcare, însușire necorespunzătoare, furt, utilizare necorespunzătoare sau acces neautorizat. Cu excepția celor acordate în mod expres în acest Acord, New Yolk își rezervă și va păstra toate drepturile, titlurile și interesele în Software, inclusiv toate drepturile de autor și subiectele protejate prin drepturi de autor, mărcile comerciale și subiectele protejate prin mărci comerciale, brevetele și subiectele brevetabile, secretele comerciale și alte drepturi de proprietate intelectuală, înregistrate, neînregistrate, acordate, solicitate sau existente acum sau care pot fi create, referitoare la acestea.",
+        "15": "Dvs. (sau Organizația, dacă și după cum este aplicabil) veți păstra proprietatea asupra tuturor Drepturilor de Proprietate Intelectuală în și asupra produselor de lucru pe care le creați prin sau cu ajutorul Software-ului.",
+        "16": "Orice feedback, comentarii, idei, îmbunătățiri sau sugestii (colectiv, 'Sugestii') furnizate de dvs. către New Yolk cu privire la Aplicație vor rămâne proprietatea exclusivă a New Yolk Farm.",
+        "17": "New Yolk va fi liber să utilizeze, să copieze, să modifice, să publice sau să redistribuie Sugestiile în orice scop și în orice mod, fără niciun credit sau compensație pentru dvs.",
+        "18": "New Yolk își rezervă dreptul de a modifica, suspenda sau întrerupe, temporar sau permanent, Aplicația sau orice serviciu la care se conectează, cu sau fără notificare și fără răspundere față de dvs.",
+        "19": "New Yolk poate, din când în când, să furnizeze îmbunătățiri sau îmbunătățiri ale caracteristicilor/funcționalității Aplicației, care pot include patch-uri, remedieri de erori, actualizări, upgrade-uri și alte modificări ('Actualizări').",
+        "20": "Actualizările pot modifica sau șterge anumite caracteristici și/sau funcționalități ale Aplicației. Sunteți de acord că New Yolk Farm nu are nicio obligație de a (i) furniza orice Actualizări sau (ii) continua să furnizeze sau să activeze orice caracteristici și/sau funcționalități particulare ale Aplicației pentru dvs.",
+        "21": "Sunteți de acord, de asemenea, că toate Actualizările vor fi (i) considerate ca parte integrantă a Aplicației și (ii) supuse termenilor și condițiilor acestui Acord.",
+        "22": "Acest Acord va rămâne în vigoare până la rezilierea de către dvs. sau New Yolk.",
+        "23": "New Yolk poate, la discreția sa, în orice moment și din orice motiv sau fără niciun motiv, să suspende sau să rezilieze acest Acord cu sau fără notificare prealabilă.",
+        "24": "Acest Acord va înceta imediat, fără notificare prealabilă din partea New Yolk, în cazul în care nu respectați orice prevedere a acestui Acord. De asemenea, puteți rezilia acest Acord ștergând Aplicația și toate copiile acesteia de pe computerul dvs.",
+        "25": "La încetarea acestui Acord, veți înceta orice utilizare a Aplicației și veți șterge toate copiile Aplicației de pe computerul dvs.",
+        "26": "Încetarea acestui Acord nu va limita niciunul dintre drepturile sau remediile legale sau echitabile în cazul unei încălcări de către dvs. (în timpul termenului acestui Acord) a oricăror obligații ale dvs. în temeiul prezentului Acord.",
+        "27": "Sunteți de acord să despăgubiți, să apărați și să exonerați de răspundere New Yolk și ofițerii, directorii, angajații, agenții, afiliații, succesorii și cesionarii săi de și împotriva oricăror pierderi, daune, răspunderi, deficiențe, revendicări, acțiuni, hotărâri, soluționări, dobânzi, premii, penalități, amenzi, costuri sau cheltuieli de orice fel, inclusiv onorariile rezonabile ale avocaților, care decurg din sau sunt legate de: i) utilizarea sau utilizarea necorespunzătoare a Software-ului de către dvs.; ii) nerespectarea de către dvs. a oricărei legi, reglementări sau directive guvernamentale aplicabile; iii) încălcarea de către dvs. a acestui Acord; sau iv) acordul sau relația dvs. cu o Organizație (dacă este aplicabil) sau orice terță parte.",
+        "28": "Aplicația vă este furnizată „CA ATARE” și „AȘA CUM ESTE DISPONIBILĂ” și cu toate defectele și deficiențele, fără garanție de niciun fel. În măsura maximă permisă de legea aplicabilă, New Yolk, în nume propriu și în numele afiliaților săi și al licențiatorilor și furnizorilor săi de servicii respectivi, declină în mod expres toate garanțiile, fie ele exprese, implicite, statutare sau de altă natură, cu privire la Aplicație, inclusiv toate garanțiile implicite de vandabilitate, adecvare pentru un anumit scop, titlu și neîncălcare, și garanțiile care pot rezulta din cursul tranzacțiilor, cursul performanței, utilizarea sau practica comercială. Fără a limita cele de mai sus, New Yolk nu oferă nicio garanție sau angajament și nu face nicio reprezentare de niciun fel că Aplicația va îndeplini cerințele dvs., va obține orice rezultate dorite, va fi compatibilă sau va funcționa cu orice alt software, aplicații, sisteme sau servicii, va funcționa fără întrerupere, va îndeplini orice standarde de performanță sau fiabilitate sau va fi lipsită de erori sau că orice erori sau defecte pot sau vor fi corectate.",
+        "29": "Fără a limita cele de mai sus, nici New Yolk, nici vreun furnizor nu face nicio reprezentare sau garanție de niciun fel, expresă sau implicită: (i) cu privire la funcționarea sau disponibilitatea Aplicației, sau informațiile, conținutul și materialele sau produsele incluse în aceasta; (ii) că Aplicația va fi neîntreruptă sau fără erori; (iii) cu privire la acuratețea, fiabilitatea sau actualitatea oricărei informații sau conținut furnizat prin intermediul Aplicației; sau (iv) că Aplicația, serverele sale, conținutul sau e-mailurile trimise de la sau în numele New Yolk sunt lipsite de viruși, scripturi, cai troieni, viermi, malware, bombe cu ceas sau alte componente dăunătoare.",
+        "30": "Unele jurisdicții nu permit excluderea sau limitarea garanțiilor implicite sau limitările drepturilor statutare aplicabile ale unui consumator, astfel încât unele sau toate excluderile și limitările de mai sus s-ar putea să nu se aplice în cazul dvs.",
+        "31": "Indiferent de daunele pe care le-ați putea suferi, întreaga răspundere a New Yolk și a oricăruia dintre furnizorii săi în temeiul oricărei prevederi a acestui Acord și remediul dvs. exclusiv pentru toate cele de mai sus va fi limitată la suma efectiv plătită de dvs. pentru Aplicație.",
+        "32": "În măsura maximă permisă de legea aplicabilă, în niciun caz New Yolk sau furnizorii săi nu vor fi răspunzători pentru orice daune speciale, incidentale, indirecte sau consecutive de orice fel (inclusiv, dar fără a se limita la, daune pentru pierderea profiturilor, pierderea datelor sau a altor informații, pentru întreruperea activității, pentru vătămări corporale, pentru pierderea confidențialității care rezultă din sau în orice fel legate de utilizarea sau incapacitatea de a utiliza Aplicația, software-ul terț și/sau hardware-ul terț utilizat cu Aplicația, sau în alt mod în legătură cu orice prevedere a acestui Acord), chiar dacă New Yolk sau orice furnizor a fost informat despre posibilitatea unor astfel de daune și chiar dacă remediul nu își îndeplinește scopul esențial.",
+        "33": "Unele state/jurisdicții nu permit excluderea sau limitarea daunelor incidentale sau consecutive, astfel încât limitarea sau excluderea de mai sus s-ar putea să nu se aplice în cazul dvs.",
+        "34": "Dacă orice prevedere a acestui Acord este considerată inaplicabilă sau invalidă, acea prevedere va fi modificată și interpretată pentru a realiza obiectivele acelei prevederi în cea mai mare măsură posibilă în conformitate cu legea aplicabilă, iar prevederile rămase vor continua în vigoare deplină.",
+        "35": "Nicio neexercitare și nicio întârziere în exercitarea, din partea oricărei părți, a oricărui drept sau a oricărei puteri în temeiul acestui Acord nu va opera ca o renunțare la acel drept sau putere. De asemenea, nicio exercitare unică sau parțială a oricărui drept sau putere în temeiul acestui Acord nu va împiedica exercitarea ulterioară a acelui drept sau putere sau a oricărui alt drept acordat aici. În cazul unui conflict între acest Acord și orice termeni de achiziție sau alți termeni aplicabili, termenii acestui Acord vor prevala.",
+        "36": "New Yolk își rezervă dreptul, la discreția sa, de a modifica sau înlocui acest Acord în orice moment. Dacă o revizuire este materială, vom furniza cel puțin 30 de zile de notificare înainte ca noii termeni să intre în vigoare. Ce constituie o schimbare materială va fi determinat la discreția noastră.",
+        "37": "Continuând să accesați sau să utilizați Aplicația noastră după ce orice revizuiri devin efective, sunteți de acord să fiți obligați de termenii revizuiți. Dacă nu sunteți de acord cu noii termeni, nu mai sunteți autorizat să utilizați Aplicația.",
+        "38": "Legile din România, excluzând regulile sale privind conflictele de legi, vor guverna acest Acord și utilizarea de către dvs. a Aplicației. Utilizarea de către dvs. a Aplicației poate fi, de asemenea, supusă altor legi locale, de stat, naționale sau internaționale.",
+        "39": "Ne rezervăm dreptul exclusiv de a face modificări la acest Acord din când în când. Accesul și utilizarea continuă a site-ului web constituie acordul dvs. de a fi obligat de și acceptarea termenilor și condițiilor postate la acel moment. Recunoașteți și sunteți de acord că acceptați acest Acord (și orice modificări ale acestuia) de fiecare dată când încărcați, accesați sau utilizați site-ul web. Prin urmare, vă încurajăm să revizuiți acest Acord în mod regulat.",
+        "40": "Dacă, în termen de treizeci (30) de zile de la postarea modificărilor sau amendamentelor la acest Acord, decideți că nu sunteți de acord cu termenii actualizați, puteți retrage acceptarea termenilor modificați prin furnizarea unei notificări scrise de retragere. După furnizarea notificării scrise de retragere a acceptării, nu mai sunteți autorizat să accesați sau să utilizați site-ul web.",
+        "41": "Nicio prevedere a acestui Acord sau orice parte a relației dintre dvs. și New Yolk nu este destinată să creeze și nici nu va fi considerată sau interpretată ca creând orice relație între dvs. și New Yolk alta decât cea de utilizator final al site-ului web și al serviciilor furnizate.",
+        "42": "Recunoașteți și sunteți de acord că încălcarea acestui Acord de către dvs. ar cauza New Yolk un prejudiciu ireparabil pentru care daunele bănești singure ar fi inadecvate. În plus față de daune și orice alte remedii la care New Yolk Farm poate avea dreptul, recunoașteți și sunteți de acord că putem solicita o ordonanță de restricție pentru a preveni încălcarea efectivă, amenințată sau continuată a acestui Acord.",
+        "43": "Titlurile din acest Acord sunt doar pentru referință și nu vor limita domeniul de aplicare sau nu vor afecta în alt mod interpretarea acestui Acord.",
+        "44": "Compania este bazată în România și oferă acces și utilizare în principal persoanelor situate în România și menține conformitatea cu legile și reglementările din România. Dacă utilizați site-ul web din afara României, sunteți singurul și exclusiv responsabil pentru respectarea legilor locale.",
+        "45": "Orice cauză de acțiune sau revendicare pe care o puteți avea care decurge din sau este legată de acest acord sau de site-ul web trebuie să fie începută în termen de un (1) an după ce cauza acțiunii apare, altfel, o astfel de cauză de acțiune sau revendicare este permanent interzisă.",
+        "46": "Acordul constituie întregul acord între dvs. și New Yolk cu privire la utilizarea de către dvs. a Aplicației și înlocuiește toate acordurile scrise sau orale anterioare și contemporane între dvs. și New Yolk Farm.",
+        "47": "Puteți fi supus unor termeni și condiții suplimentare care se aplică atunci când utilizați sau achiziționați alte servicii, pe care New Yolk vi le va furniza la momentul utilizării sau achiziției respective.",
+        "48": "Nu ezitați să ne contactați dacă aveți întrebări despre acest Acord."
+      },
+      "uls": {
+        "1": {
+          "1": "Cookie: cantitate mică de date generate de un site web și salvate de browserul dvs. web. Este folosit pentru a identifica browserul dvs., a furniza analize, a reține informații despre dvs., cum ar fi preferințele de limbă sau informațiile de autentificare.",
+          "2": "Companie: când această politică menționează „Companie”, „noi”, „nouă” sau „al nostru”, se referă la New Yolk S.R.L, Str. Mos Pitar 27, Sector 1, București, care este responsabilă pentru informațiile dvs. în conformitate cu acest Eula.",
+          "3": "Țară: unde New Yolk sau proprietarii/fondatorii New Yolk sunt bazați, în acest caz este România.",
+          "4": "Serviciu: se referă la serviciul furnizat de New Yolk, așa cum este descris în termenii relativi (dacă sunt disponibili) și pe această platformă.",
+          "5": "Serviciu terț: se referă la agenți de publicitate, sponsori de concursuri, parteneri promoționali și de marketing și alții care furnizează conținutul nostru sau ale căror produse sau servicii credem că v-ar putea interesa.",
+          "6": "Website: site, care poate fi accesat prin acest URL: https://www.newyolk.io",
+          "7": "Dvs.: o persoană sau entitate care este înregistrată la New Yolk pentru a utiliza Serviciile."
+        },
+        "2": {
+          "1": "Licențiere, vânzare, închiriere, leasing, cesionare, distribuire, transmitere, găzduire, externalizare, divulgare sau exploatare comercială a Aplicației sau punerea Aplicației la dispoziția oricărei terțe părți.",
+          "2": "Modificarea, realizarea de lucrări derivate, dezasamblarea, decriptarea, compilarea inversă sau ingineria inversă a oricărei părți a Aplicației.",
+          "3": "Eliminarea, modificarea sau ascunderea oricărei notificări de proprietate (inclusiv orice notificare de drepturi de autor sau marcă comercială) a New Yolk Farm sau a afiliaților, partenerilor, furnizorilor sau licențiatorilor Aplicației."
+        }
+      }
+    },
+    "privacyPolicy": {
+      "h1": "Politica de Confidențialitate",
+      "updated": "Actualizat la 2023-06-01",
+      "h2": "Definiții și termeni cheie",
+      "h3s": {
+        "1": "Ce Informații Colectăm?",
+        "2": "Cum Folosim Informațiile pe care le Colectăm?",
+        "3": "Când folosește New Yolk informațiile utilizatorilor finali de la terți?",
+        "4": "Când folosește New Yolk informațiile clienților de la terți?",
+        "5": "Împărtășim informațiile pe care le colectăm cu terți?",
+        "6": "Unde și când sunt colectate informațiile de la clienți și utilizatori finali?",
+        "7": "Cum Folosim Adresa Dvs. de Email?",
+        "8": "Cât Timp Păstrăm Informațiile Dvs.?",
+        "9": "Cum Protejăm Informațiile Dvs.?",
+        "10": "Informațiile mele pot fi transferate în alte țări?",
+        "11": "Informațiile colectate prin Serviciul New Yolk sunt sigure?",
+        "12": "Pot să-mi actualizez sau corectez informațiile?",
+        "13": "Personal",
+        "14": "Vânzarea Afacerii",
+        "15": "Afiliați",
+        "16": "Legea Guvernantă",
+        "17": "Consimțământul Dvs.",
+        "18": "Linkuri către Alte Site-uri Web",
+        "19": "Cookie-uri",
+        "20": "Blocarea și dezactivarea cookie-urilor și a tehnologiilor similare",
+        "21": "Servicii de Remarketing",
+        "22": "Detalii de Plată",
+        "23": "Confidențialitatea Copiilor",
+        "24": "Modificări ale Politicii noastre de Confidențialitate",
+        "25": "Servicii Terțe",
+        "26": "Pixelul Facebook",
+        "27": "Tehnologii de Urmărire",
+        "28": "Informații despre Regulamentul General privind Protecția Datelor (GDPR)",
+        "29": "Ce este GDPR?",
+        "30": "Ce sunt datele personale?",
+        "31": "De ce este important GDPR?",
+        "32": "Drepturile Subiectului Datelor - Accesul la Date, Portabilitatea și Ștergerea",
+        "33": "Rezidenții din California",
+        "34": "Legea Californiană de Protecție a Confidențialității Online (CalOPPA)",
+        "35": "Contactați-ne"
+      },
+      "ps": {
+        "1": "New Yolk („noi”, „al nostru” sau „nouă”) se angajează să vă protejeze confidențialitatea. Această Politică de Confidențialitate explică modul în care informațiile dvs. personale sunt colectate, utilizate și dezvăluite de New Yolk.",
+        "2": "Această Politică de Confidențialitate se aplică site-ului nostru web și subdomeniilor sale asociate (colectiv, „Serviciul nostru”) împreună cu aplicația noastră, New Yolk. Prin accesarea sau utilizarea Serviciului nostru, confirmați că ați citit, înțeles și sunteți de acord cu colectarea, stocarea, utilizarea și dezvăluirea informațiilor dvs. personale, așa cum este descris în această Politică de Confidențialitate și în Termenii noștri de Serviciu.",
+        "3": "Pentru a ajuta la explicarea lucrurilor cât mai clar posibil în această Politică de Confidențialitate, de fiecare dată când oricare dintre acești termeni sunt menționați, sunt strict definiți astfel:",
+        "4": "Colectăm informații de la dvs. atunci când vizitați site-ul nostru web, vă înregistrați pe site-ul nostru, plasați o comandă, vă abonați la newsletter-ul nostru, răspundeți la un sondaj sau completați un formular.",
+        "5": "Oricare dintre informațiile pe care le colectăm de la dvs. poate fi utilizată în unul dintre următoarele moduri:",
+        "6": "New Yolk va colecta Datele Utilizatorului Final necesare pentru a furniza serviciile New Yolk clienților noștri.",
+        "7": "Utilizatorii finali ne pot furniza voluntar informații pe care le-au făcut disponibile pe site-urile de socializare. Dacă ne furnizați astfel de informații, putem colecta informații disponibile public de pe site-urile de socializare pe care le-ați indicat. Puteți controla cât de multe dintre informațiile dvs. sunt făcute publice de site-urile de socializare vizitând aceste site-uri și schimbând setările de confidențialitate.",
+        "8": "Primim unele informații de la terți atunci când ne contactați. De exemplu, atunci când ne trimiteți adresa dvs. de email pentru a arăta interesul de a deveni client New Yolk, primim informații de la un terț care furnizează servicii automate de detectare a fraudei către New Yolk. De asemenea, ocazional colectăm informații care sunt făcute publice pe site-urile de socializare. Puteți controla cât de multe dintre informațiile dvs. sunt făcute publice de site-urile de socializare vizitând aceste site-uri și schimbând setările de confidențialitate.",
+        "9": "Putem împărtăși informațiile pe care le colectăm, atât personale, cât și non-personale, cu terți, cum ar fi agenții de publicitate, sponsori de concursuri, parteneri promoționali și de marketing și alții care furnizează conținutul nostru sau ale căror produse sau servicii credem că v-ar putea interesa. De asemenea, le putem împărtăși cu companiile noastre afiliate actuale și viitoare și partenerii de afaceri, iar dacă suntem implicați într-o fuziune, vânzare de active sau altă reorganizare a afacerii, putem împărtăși sau transfera informațiile dvs. personale și non-personale către succesorii noștri.",
+        "10": "Putem angaja furnizori de servicii terți de încredere pentru a îndeplini funcții și a ne furniza servicii, cum ar fi găzduirea și întreținerea serverelor și site-ului web, stocarea și gestionarea bazelor de date, gestionarea email-urilor, marketingul de stocare, procesarea cardurilor de credit, serviciul pentru clienți și îndeplinirea comenzilor pentru produse și servicii pe care le puteți achiziționa prin intermediul site-ului web. Este posibil să împărtășim informațiile dvs. personale și, posibil, unele informații non-personale, cu acești terți pentru a le permite să îndeplinească aceste servicii pentru noi și pentru dvs.",
+        "11": "Putem împărtăși porțiuni din datele noastre de fișiere jurnal, inclusiv adrese IP, în scopuri analitice cu terți, cum ar fi parteneri de analiză web, dezvoltatori de aplicații și rețele de publicitate. Dacă adresa dvs. IP este împărtășită, aceasta poate fi utilizată pentru a estima locația generală și alte date tehnografice, cum ar fi viteza conexiunii, dacă ați vizitat site-ul web într-o locație partajată și tipul de dispozitiv utilizat pentru a vizita site-ul web. Ei pot agrega informații despre publicitatea noastră și ceea ce vedeți pe site-ul web și apoi pot furniza audituri, cercetări și rapoarte pentru noi și agenții noștri de publicitate. De asemenea, putem dezvălui informații personale și non-personale despre dvs. către oficiali guvernamentali sau de aplicare a legii sau părți private, așa cum considerăm, la discreția noastră, necesar sau adecvat pentru a răspunde la revendicări, procese legale (inclusiv citații), pentru a ne proteja drepturile și interesele sau pe cele ale unei terțe părți, siguranța publicului sau a oricărei persoane, pentru a preveni sau opri orice activitate ilegală, neetică sau legală, sau pentru a respecta în alt mod ordinele judecătorești aplicabile, legile, regulile și reglementările.",
+        "12": "New Yolk va colecta informațiile personale pe care ni le trimiteți. De asemenea, putem primi informații personale despre dvs. de la terți, așa cum este descris mai sus.",
+        "13": "Prin trimiterea adresei dvs. de email pe acest site web, sunteți de acord să primiți emailuri de la noi. Puteți anula participarea la oricare dintre aceste liste de emailuri în orice moment făcând clic pe linkul de renunțare sau pe altă opțiune de dezabonare inclusă în emailul respectiv. Trimitem emailuri doar persoanelor care ne-au autorizat să le contactăm, fie direct, fie printr-o terță parte. Nu trimitem emailuri comerciale nesolicitate, deoarece urâm spamul la fel de mult ca și dvs. Prin trimiterea adresei dvs. de email, sunteți de acord, de asemenea, să ne permiteți să folosim adresa dvs. de email pentru targetarea audienței clienților pe site-uri precum Facebook, unde afișăm publicitate personalizată pentru persoanele care au optat să primească comunicări de la noi. Adresele de email trimise doar prin pagina de procesare a comenzilor vor fi utilizate exclusiv pentru a vă trimite informații și actualizări referitoare la comanda dvs. Dacă, totuși, ne-ați furnizat aceeași adresă de email printr-o altă metodă, o putem folosi pentru oricare dintre scopurile menționate în această Politică. Notă: Dacă în orice moment doriți să vă dezabonați de la primirea emailurilor viitoare, includem instrucțiuni detaliate de dezabonare în partea de jos a fiecărui email.",
+        "14": "Păstrăm informațiile dvs. doar atât timp cât avem nevoie de ele pentru a vă furniza New Yolk și pentru a îndeplini scopurile descrise în această politică. Acesta este, de asemenea, cazul pentru oricine cu care împărtășim informațiile dvs. și care efectuează servicii în numele nostru. Când nu mai avem nevoie să folosim informațiile dvs. și nu mai avem nevoie să le păstrăm pentru a respecta obligațiile noastre legale sau de reglementare, le vom elimina din sistemele noastre sau le vom depersonaliza astfel încât să nu vă putem identifica.",
+        "15": "Implementăm o varietate de măsuri de securitate pentru a menține siguranța informațiilor dvs. personale atunci când plasați o comandă sau introduceți, trimiteți sau accesați informațiile dvs. personale. Oferim utilizarea unui server securizat. Toate informațiile sensibile/credit furnizate sunt transmise prin tehnologia Secure Socket Layer (SSL) și apoi criptate în baza de date a furnizorilor noștri de gateway de plăți pentru a fi accesibile doar de cei autorizați cu drepturi speciale de acces la astfel de sisteme și care sunt obligați să păstreze informațiile confidențiale. După o tranzacție, informațiile dvs. private (carduri de credit, numere de securitate socială, date financiare etc.) nu sunt niciodată păstrate în fișier. Totuși, nu putem asigura sau garanta securitatea absolută a oricărei informații pe care o transmiteți către New Yolk sau garanta că informațiile dvs. din Serviciu nu pot fi accesate, dezvăluite, modificate sau distruse printr-o încălcare a oricăror măsuri de protecție fizice, tehnice sau manageriale.",
+        "16": "New Yolk este încorporată în România. Informațiile colectate prin intermediul site-ului nostru web, prin interacțiuni directe cu dvs. sau din utilizarea serviciilor noastre de asistență pot fi transferate din când în când la birourile sau personalul nostru, sau la terți, situate în întreaga lume și pot fi vizualizate și găzduite oriunde în lume, inclusiv în țări care pot să nu aibă legi de aplicabilitate generală care reglementează utilizarea și transferul acestor date. În măsura maximă permisă de legea aplicabilă, prin utilizarea oricăruia dintre cele de mai sus, consimțiți voluntar la transferul și găzduirea transfrontalieră a acestor informații.",
+        "17": "Luăm măsuri de precauție pentru a proteja securitatea informațiilor dvs. Avem proceduri fizice, electronice și manageriale pentru a ajuta la protejarea, prevenirea accesului neautorizat, menținerea securității datelor și utilizarea corectă a informațiilor dvs. Cu toate acestea, nici oamenii, nici sistemele de securitate nu sunt infailibile, inclusiv sistemele de criptare. În plus, oamenii pot comite infracțiuni intenționate, pot face greșeli sau pot să nu respecte politicile. Prin urmare, deși depunem eforturi rezonabile pentru a vă proteja informațiile personale, nu putem garanta securitatea absolută a acestora. Dacă legea aplicabilă impune orice obligație de necontestat de a proteja informațiile dvs. personale, sunteți de acord că comportamentul intenționat va fi standardul utilizat pentru a măsura conformitatea noastră cu acea obligație.",
+        "18": "Drepturile pe care le aveți pentru a solicita actualizări sau corecturi ale informațiilor colectate de New Yolk depind de relația dvs. cu New Yolk. Personalul poate actualiza sau corecta informațiile lor, așa cum este detaliat în politicile noastre interne de angajare.",
+        "19": "Clienții au dreptul să solicite restricționarea anumitor utilizări și dezvăluiri ale informațiilor de identificare personală, după cum urmează. Ne puteți contacta pentru a (1) actualiza sau corecta informațiile dvs. de identificare personală, (2) schimba preferințele dvs. cu privire la comunicările și alte informații pe care le primiți de la noi, sau (3) șterge informațiile de identificare personală păstrate despre dvs. în sistemele noastre (sub rezerva paragrafului următor), anulând contul dvs. Astfel de actualizări, corecții, modificări și ștergeri nu vor avea niciun efect asupra altor informații pe care le menținem sau asupra informațiilor pe care le-am furnizat terților în conformitate cu această Politică de Confidențialitate înainte de astfel de actualizare, corecție, modificare sau ștergere. Pentru a vă proteja confidențialitatea și securitatea, putem lua măsuri rezonabile (cum ar fi solicitarea unei parole unice) pentru a vă verifica identitatea înainte de a vă acorda acces la profilul dvs. sau de a face corecții. Sunteți responsabil pentru menținerea secretului parolei dvs. unice și a informațiilor despre contul dvs. în orice moment.",
+        "20": "Trebuie să fiți conștienți că nu este posibil din punct de vedere tehnologic să eliminăm fiecare înregistrare a informațiilor pe care ni le-ați furnizat din sistemul nostru. Necesitatea de a face copii de rezervă ale sistemelor noastre pentru a proteja informațiile de pierderi accidentale înseamnă că o copie a informațiilor dvs. poate exista într-o formă care nu poate fi ștearsă și care va fi dificil sau imposibil de localizat. Imediat după primirea solicitării dvs., toate informațiile personale stocate în bazele de date pe care le folosim activ și în alte medii ușor accesibile vor fi actualizate, corectate, modificate sau șterse, după caz, cât mai curând posibil și în măsura în care este rezonabil și tehnic posibil.",
+        "21": "Dacă sunteți un utilizator final și doriți să actualizați, ștergeți sau să primiți orice informație pe care o avem despre dvs., puteți face acest lucru contactând organizația al cărei client sunteți.",
+        "22": "Dacă sunteți un angajat sau un solicitant New Yolk, colectăm informațiile pe care ni le furnizați voluntar. Folosim informațiile colectate în scopuri de resurse umane pentru a administra beneficiile pentru angajați și pentru a evalua solicitanții.",
+        "23": "Ne puteți contacta pentru a (1) actualiza sau corecta informațiile dvs., (2) schimba preferințele dvs. cu privire la comunicările și alte informații pe care le primiți de la noi, sau (3) primi un raport al informațiilor pe care le avem despre dvs. Astfel de actualizări, corecții, modificări și ștergeri nu vor avea niciun efect asupra altor informații pe care le menținem sau asupra informațiilor pe care le-am furnizat terților în conformitate cu această Politică de Confidențialitate înainte de astfel de actualizare, corecție, modificare sau ștergere.",
+        "24": "Ne rezervăm dreptul de a transfera informații către un terț în cazul unei vânzări, fuziuni sau alt transfer al tuturor sau al unei părți substanțiale a activelor New Yolk sau ale oricăruia dintre afiliații săi corporativi (așa cum sunt definiți aici), sau acea parte a New Yolk sau a oricăruia dintre afiliații săi corporativi la care se referă Serviciul, sau în cazul în care ne încetăm activitatea sau depunem o cerere sau avem depusă împotriva noastră o cerere de faliment, reorganizare sau procedură similară, cu condiția ca terțul să fie de acord să respecte termenii acestei Politici de Confidențialitate.",
+        "25": "Putem dezvălui informații (inclusiv informații personale) despre dvs. afiliaților noștri corporativi. În scopul acestei Politici de Confidențialitate, 'Afiliați Corporativi' înseamnă orice persoană sau entitate care controlează direct sau indirect, este controlată de sau este sub control comun cu New Yolk, fie prin proprietate, fie altfel. Orice informație referitoare la dvs. pe care o furnizăm afiliaților noștri corporativi va fi tratată de acești afiliați corporativi în conformitate cu termenii acestei Politici de Confidențialitate.",
+        "26": "Această Politică de Confidențialitate este guvernată de legile din România, fără a ține cont de prevederile sale privind conflictele de legi. Sunteți de acord cu jurisdicția exclusivă a instanțelor în legătură cu orice acțiune sau dispută care apare între părți în temeiul sau în legătură cu această Politică de Confidențialitate, cu excepția celor care pot avea drepturi de a face reclamații în temeiul Privacy Shield sau al cadrului Swiss-US.",
+        "27": "Legile din România, excluzând regulile sale privind conflictele de legi, vor guverna acest Acord și utilizarea de către dvs. a site-ului web. Utilizarea de către dvs. a site-ului web poate fi, de asemenea, supusă altor legi locale, de stat, naționale sau internaționale.",
+        "28": "Prin utilizarea New Yolk sau contactarea noastră directă, vă exprimați acceptarea acestei Politici de Confidențialitate. Dacă nu sunteți de acord cu această Politică de Confidențialitate, nu ar trebui să interacționați cu site-ul nostru web sau să utilizați serviciile noastre. Continuarea utilizării site-ului web, interacțiunea directă cu noi sau urmărirea postării modificărilor la această Politică de Confidențialitate care nu afectează semnificativ utilizarea sau dezvăluirea informațiilor dvs. personale va însemna că acceptați acele modificări.",
+        "29": "Am actualizat Politica noastră de Confidențialitate pentru a vă oferi transparență completă în ceea ce privește informațiile colectate atunci când vizitați site-ul nostru și modul în care acestea sunt utilizate. Prin utilizarea site-ului nostru web, înregistrarea unui cont sau efectuarea unei achiziții, vă exprimați consimțământul pentru Politica noastră de Confidențialitate și sunteți de acord cu termenii acesteia.",
+        "30": "Această Politică de Confidențialitate se aplică doar Serviciilor. Serviciile pot conține linkuri către alte site-uri web care nu sunt operate sau controlate de New Yolk. Nu suntem responsabili pentru conținutul, acuratețea sau opiniile exprimate pe astfel de site-uri web, iar aceste site-uri web nu sunt investigate, monitorizate sau verificate pentru acuratețe sau completitudine de către noi. Vă rugăm să rețineți că atunci când utilizați un link pentru a accesa un alt site web din cadrul Serviciilor, Politica noastră de Confidențialitate nu mai este în vigoare. Navigarea și interacțiunea dvs. pe orice alt site web, inclusiv cele care au un link pe platforma noastră, sunt supuse propriilor reguli și politici ale acelui site web. Astfel de terți pot utiliza propriile cookie-uri sau alte metode pentru a colecta informații despre dvs.",
+        "31": "New Yolk folosește 'Cookie-uri' pentru a identifica zonele site-ului nostru web pe care le-ați vizitat. Un Cookie este un mic fragment de date stocat pe computerul sau dispozitivul dvs. mobil de către browserul dvs. web. Folosim Cookie-uri pentru a îmbunătăți performanța și funcționalitatea site-ului nostru web, dar nu sunt esențiale pentru utilizarea acestuia. Cu toate acestea, fără aceste cookie-uri, anumite funcționalități, cum ar fi videoclipurile, pot deveni indisponibile sau va trebui să introduceți detaliile de autentificare de fiecare dată când vizitați site-ul web, deoarece nu vom putea reține că v-ați autentificat anterior. Majoritatea browserelor web pot fi setate să dezactiveze utilizarea Cookie-urilor. Cu toate acestea, dacă dezactivați Cookie-urile, este posibil să nu puteți accesa corect sau deloc funcționalitățile site-ului nostru web. Nu plasăm niciodată informații de identificare personală în Cookie-uri.",
+        "32": "Oriunde vă aflați, puteți seta browserul dvs. să blocheze cookie-urile și tehnologiile similare, dar această acțiune poate bloca cookie-urile noastre esențiale și poate împiedica funcționarea corectă a site-ului nostru web, iar dvs. este posibil să nu puteți utiliza pe deplin toate funcțiile și serviciile acestuia. De asemenea, trebuie să fiți conștienți că este posibil să pierdeți unele informații salvate (de exemplu, detalii de autentificare salvate, preferințe de site) dacă blocați cookie-urile în browserul dvs. Diferite browsere oferă diferite controale disponibile pentru dvs. Dezactivarea unui cookie sau a unei categorii de cookie-uri nu șterge cookie-ul din browserul dvs., va trebui să faceți acest lucru dvs. din browserul dvs., ar trebui să vizitați meniul de ajutor al browserului dvs. pentru mai multe informații.",
+        "33": "Folosim servicii de remarketing. Ce este Remarketingul? În marketingul digital, remarketingul (sau retargetingul) este practica de a servi reclame pe internet persoanelor care au vizitat deja site-ul dvs. web. Permite companiei dvs. să pară că 'urmărește' oamenii pe internet prin afișarea de reclame pe site-urile și platformele pe care le folosesc cel mai mult.",
+        "34": "În ceea ce privește orice detalii de procesare a plăților cu cardul de credit sau alte detalii de plată pe care ni le-ați furnizat, ne angajăm că aceste informații confidențiale vor fi stocate în cel mai sigur mod posibil.",
+        "35": "Colectăm informații de la copii sub vârsta de 13 ani doar pentru a ne îmbunătăți serviciile. Dacă sunteți părinte sau tutore și sunteți conștient că copilul dvs. ne-a furnizat Date Personale fără permisiunea dvs., vă rugăm să ne contactați. Dacă devenim conștienți că am colectat Date Personale de la oricine sub vârsta de 13 ani fără verificarea consimțământului parental, luăm măsuri pentru a elimina acele informații de pe serverele noastre.",
+        "36": "Putem schimba Serviciul și politicile noastre, și este posibil să fie nevoie să facem modificări la această Politică de Confidențialitate pentru a reflecta corect Serviciul și politicile noastre. Cu excepția cazului în care legea prevede altfel, vă vom notifica (de exemplu, prin intermediul Serviciului nostru) înainte de a face modificări la această Politică de Confidențialitate și vă vom oferi oportunitatea de a le revizui înainte de a intra în vigoare. Apoi, dacă continuați să utilizați Serviciul, veți fi obligat de Politica de Confidențialitate actualizată. Dacă nu doriți să fiți de acord cu aceasta sau cu orice Politică de Confidențialitate actualizată, puteți să vă ștergeți contul.",
+        "37": "Putem afișa, include sau pune la dispoziție conținut de la terți (inclusiv date, informații, aplicații și alte produse și servicii) sau să furnizăm linkuri către site-uri web sau servicii ale terților ('Servicii ale Terților').",
+        "38": "Recunoașteți și sunteți de acord că New Yolk nu va fi responsabil pentru niciun Serviciu al Terților, inclusiv pentru acuratețea, completitudinea, actualitatea, validitatea, conformitatea cu drepturile de autor, legalitatea, decența, calitatea sau orice alt aspect al acestora. New Yolk nu își asumă și nu va avea nicio răspundere sau responsabilitate față de dvs. sau față de orice altă persoană sau entitate pentru niciun Serviciu al Terților.",
+        "39": "Serviciile Terților și linkurile către acestea sunt furnizate exclusiv pentru confortul dvs. și le accesați și utilizați pe propriul risc și sub rezerva termenilor și condițiilor acelor terți.",
+        "40": "Pixelul Facebook este un instrument de analiză care vă permite să măsurați eficiența publicității dvs. prin înțelegerea acțiunilor pe care oamenii le întreprind pe site-ul dvs. web. Puteți folosi pixelul pentru a: Asigurați-vă că reclamele dvs. sunt afișate persoanelor potrivite. Pixelul Facebook poate colecta informații de pe dispozitivul dvs. atunci când utilizați serviciul. Pixelul Facebook colectează informații care sunt păstrate în conformitate cu Politica sa de Confidențialitate.",
+        "41": "Folosim Cookie-uri pentru a îmbunătăți performanța și funcționalitatea platformei noastre, dar nu sunt esențiale pentru utilizarea acesteia. Cu toate acestea, fără aceste cookie-uri, anumite funcționalități, cum ar fi videoclipurile, pot deveni indisponibile sau va trebui să introduceți detaliile de autentificare de fiecare dată când vizitați platforma, deoarece nu vom putea reține că v-ați autentificat anterior.",
+        "42": "Stocarea Locală, cunoscută uneori sub numele de stocare DOM, oferă aplicațiilor web metode și protocoale pentru stocarea datelor pe partea clientului. Stocarea web suportă stocarea persistentă a datelor, similară cu cookie-urile, dar cu o capacitate mult îmbunătățită și fără informații stocate în antetul cererii HTTP.",
+        "43": "Folosim 'Sesiuni' pentru a identifica zonele site-ului nostru web pe care le-ați vizitat. O Sesiune este un mic fragment de date stocat pe computerul sau dispozitivul dvs. mobil de către browserul dvs. web.",
+        "44": "Putem colecta și utiliza informații de la dvs. dacă sunteți din Zona Economică Europeană (EEA), și în această secțiune a Politicii noastre de Confidențialitate vom explica exact cum și de ce sunt colectate aceste date și cum protejăm aceste date de a fi replicate sau utilizate în mod greșit.",
+        "45": "GDPR este o lege de confidențialitate și protecție a datelor la nivelul UE care reglementează modul în care sunt protejate datele rezidenților UE de către companii și îmbunătățește controlul pe care rezidenții UE îl au asupra datelor lor personale.",
+        "46": "GDPR este relevant pentru orice companie care operează la nivel global și nu doar pentru afacerile și rezidenții din UE. Datele clienților noștri sunt importante indiferent de locul în care se află, motiv pentru care am implementat controale GDPR ca standard de bază pentru toate operațiunile noastre la nivel mondial.",
+        "47": "Orice date care se referă la o persoană identificabilă sau identificată. GDPR acoperă un spectru larg de informații care ar putea fi utilizate singure sau în combinație cu alte informații pentru a identifica o persoană. Datele personale se extind dincolo de numele sau adresa de e-mail a unei persoane. Unele exemple includ informații financiare, opinii politice, date genetice, date biometrice, adrese IP, adrese fizice, orientare sexuală și etnie.",
+        "48": "Principiile de Protecție a Datelor includ cerințe precum:",
+        "49": "GDPR adaugă câteva cerințe noi privind modul în care companiile ar trebui să protejeze datele personale ale indivizilor pe care le colectează și le procesează. De asemenea, crește miza pentru conformitate prin creșterea aplicării și impunerea unor amenzi mai mari pentru încălcări. Dincolo de aceste fapte, este pur și simplu corect să facem acest lucru. La New Yolk credem cu tărie că confidențialitatea datelor dvs. este foarte importantă și avem deja practici solide de securitate și confidențialitate care depășesc cerințele acestei noi reglementări.",
+        "50": "Ne angajăm să ajutăm clienții noștri să îndeplinească cerințele privind drepturile subiectului datelor conform GDPR. New Yolk procesează sau stochează toate datele personale la furnizori complet verificați, conformi cu DPA. Stocăm toate conversațiile și datele personale timp de până la 6 ani, cu excepția cazului în care contul dvs. este șters. În acest caz, eliminăm toate datele în conformitate cu Termenii noștri de Serviciu și Politica de Confidențialitate, dar nu le vom păstra mai mult de 60 de zile.",
+        "51": "Suntem conștienți că, dacă lucrați cu clienți din UE, trebuie să le puteți oferi posibilitatea de a accesa, actualiza, recupera și elimina datele personale. Vă avem acoperit! Am fost configurați ca autoservire de la început și v-am oferit întotdeauna acces la datele dvs. și la datele clienților dvs. Echipa noastră de suport pentru clienți este aici pentru a răspunde la orice întrebări pe care le-ați putea avea despre lucrul cu API-ul.",
+        "52": "Legea privind confidențialitatea consumatorilor din California (CCPA) ne cere să dezvăluim categoriile de informații personale pe care le colectăm și cum le folosim, categoriile de surse de la care colectăm informații personale și terții cu care le împărtășim, pe care le-am explicat mai sus.",
+        "53": "De asemenea, suntem obligați să comunicăm informații despre drepturile pe care le au rezidenții din California conform legii din California. Puteți exercita următoarele drepturi:",
+        "54": "Dacă faceți o solicitare, avem la dispoziție o lună pentru a vă răspunde. Dacă doriți să exercitați oricare dintre aceste drepturi, vă rugăm să ne contactați.",
+        "55": "Nu vindem informațiile personale ale utilizatorilor noștri.",
+        "56": "Pentru mai multe informații despre aceste drepturi, vă rugăm să ne contactați.",
+        "57": "CalOPPA ne cere să dezvăluim categoriile de informații personale pe care le colectăm și cum le folosim, categoriile de surse de la care colectăm informații personale și terții cu care le împărtășim, pe care le-am explicat mai sus.",
+        "58": "Utilizatorii CalOPPA au următoarele drepturi:",
+        "59": "Dacă faceți o solicitare, avem la dispoziție o lună pentru a vă răspunde. Dacă doriți să exercitați oricare dintre aceste drepturi, vă rugăm să ne contactați.",
+        "60": "Nu vindem informațiile personale ale utilizatorilor noștri.",
+        "61": "Pentru mai multe informații despre aceste drepturi, vă rugăm să ne contactați.",
+        "62": "Nu ezitați să ne contactați dacă aveți întrebări."
+      },
+      "uls": {
+        "1": {
+          "1": "Cookie: o cantitate mică de date generate de un site web și salvate de browserul dvs. web. Este folosit pentru a identifica browserul dvs., a furniza analize, a reține informații despre dvs., cum ar fi preferința de limbă sau informațiile de autentificare.",
+          "2": "Companie: când această politică menționează „Companie”, „noi”, „nouă” sau „al nostru”, se referă la New Yolk S.R.L, Str. Moș Pitar 27, Sector 1, București, care este responsabilă pentru informațiile dvs. conform acestei Politici de Confidențialitate.",
+          "3": "Țară: unde New Yolk sau proprietarii/fondatorii New Yolk sunt bazați, în acest caz România.",
+          "4": "Client: se referă la compania, organizația sau persoana care se înscrie pentru a utiliza Serviciul New Yolk pentru a gestiona relațiile cu consumatorii sau utilizatorii serviciilor dvs.",
+          "5": "Dispozitiv: orice dispozitiv conectat la internet, cum ar fi un telefon, tabletă, computer sau orice alt dispozitiv care poate fi folosit pentru a vizita New Yolk și a utiliza serviciile.",
+          "6": "Adresă IP: Fiecare dispozitiv conectat la Internet primește un număr cunoscut sub numele de adresă de protocol Internet (IP). Aceste numere sunt de obicei atribuite în blocuri geografice. O adresă IP poate fi adesea folosită pentru a identifica locația de la care un dispozitiv se conectează la Internet.",
+          "7": "Personal: se referă la acele persoane care sunt angajate de New Yolk sau sunt sub contract pentru a presta un serviciu în numele uneia dintre părți.",
+          "8": "Date Personale: orice informație care, direct, indirect sau în legătură cu alte informații — inclusiv un număr de identificare personală — permite identificarea sau identificabilitatea unei persoane fizice.",
+          "9": "Serviciu: se referă la serviciul furnizat de New Yolk, așa cum este descris în termenii relativi (dacă sunt disponibili) și pe această platformă.",
+          "10": "Serviciu terț: se referă la agenți de publicitate, sponsori de concursuri, parteneri promoționali și de marketing și alții care furnizează conținutul nostru sau ale căror produse sau servicii credem că v-ar putea interesa.",
+          "11": "Site web: site-ul New Yolk, care poate fi accesat prin acest URL: https://www.newyolk.io",
+          "12": "Dvs.: o persoană sau entitate care este înregistrată la New Yolk pentru a utiliza Serviciile."
+        },
+        "2": {
+          "1": "Nume / Nume de utilizator",
+          "2": "Numere de telefon",
+          "3": "Adrese de email",
+          "4": "Parolă"
+        },
+        "3": {
+          "1": "Pentru a personaliza experiența dvs. (informațiile dvs. ne ajută să răspundem mai bine nevoilor dvs. individuale)",
+          "2": "Pentru a îmbunătăți site-ul nostru web (ne străduim continuu să îmbunătățim ofertele site-ului nostru web pe baza informațiilor și feedback-ului pe care le primim de la dvs.)",
+          "3": "Pentru a îmbunătăți serviciul pentru clienți (informațiile dvs. ne ajută să răspundem mai eficient solicitărilor dvs. de servicii pentru clienți și nevoilor dvs. de suport)",
+          "4": "Pentru a procesa tranzacții",
+          "5": "Pentru a administra un concurs, o promoție, un sondaj sau o altă caracteristică a site-ului",
+          "6": "Pentru a trimite emailuri periodice"
+        },
+        "4": {
+          "1": "Cookie-uri",
+          "2": "Stocare locală",
+          "3": "Sesiuni"
+        },
+        "5": {
+          "1": "Datele personale colectate trebuie procesate într-un mod corect, legal și transparent și ar trebui utilizate doar într-un mod pe care o persoană l-ar aștepta în mod rezonabil.",
+          "2": "Datele personale ar trebui colectate doar pentru a îndeplini un scop specific și ar trebui utilizate doar pentru acel scop. Organizațiile trebuie să specifice de ce au nevoie de datele personale atunci când le colectează.",
+          "3": "Datele personale ar trebui păstrate nu mai mult decât este necesar pentru a îndeplini scopul lor.",
+          "4": "Persoanele acoperite de GDPR au dreptul de a accesa propriile date personale. De asemenea, pot solicita o copie a datelor lor și ca datele lor să fie actualizate, șterse, restricționate sau mutate la o altă organizație."
+        },
+        "6": {
+          "1": "Dreptul de a cunoaște și de a accesa. Puteți trimite o solicitare verificabilă pentru informații privind: (1) categoriile de Informații Personale pe care le colectăm, le utilizăm sau le împărtășim; (2) scopurile pentru care categoriile de Informații Personale sunt colectate sau utilizate de noi; (3) categoriile de surse din care colectăm Informații Personale; și (4) piese specifice de Informații Personale pe care le-am colectat despre dvs.",
+          "2": "Dreptul la Serviciu Egal. Nu vă vom discrimina dacă vă exercitați drepturile de confidențialitate.",
+          "3": "Dreptul de a Șterge. Puteți trimite o solicitare verificabilă pentru a închide contul dvs. și vom șterge Informațiile Personale despre dvs. pe care le-am colectat.",
+          "4": "Solicitați ca o afacere care vinde datele personale ale unui consumator să nu vândă datele personale ale consumatorului."
+        }
+      }
+    },
+    "shippingRefunds": {
+      "h1": "Politica de Expediere și Rambursare",
+      "updated": "Actualizat la 2023-06-01",
+      "h2": "Termeni Generali",
+      "h3s": {
+        "1": "Interpretare",
+        "2": "Definiții și termeni cheie",
+        "3": "Politica de Expediere",
+        "4": "Drepturile Dvs. de Anulare a Comenzii",
+        "5": "Condiții pentru Returnări",
+        "6": "Contactați-ne"
+      },
+      "ps": {
+        "1": "Vă mulțumim că ați făcut cumpărături la New Yolk. Dacă, din orice motiv, nu sunteți complet mulțumit de o achiziție, vă invităm să consultați politica noastră privind rambursările și returnările.",
+        "2": "Următorii termeni sunt aplicabili pentru orice produse pe care le-ați achiziționat de la noi.",
+        "3": "Cuvintele ale căror inițiale sunt cu majuscule au semnificațiile definite în condițiile următoare. Următoarele definiții vor avea aceeași semnificație, indiferent dacă apar la singular sau la plural.",
+        "4": "În scopul acestei Politici de Returnare și Rambursare:",
+        "5": "Bunurile achiziționate vor fi expediate în contul dvs. imediat după confirmarea plății. Pentru orice probleme, vă rugăm să contactați managerul dvs. de cont sau să ne contactați prin metodele de contact listate.",
+        "6": "Aveți dreptul să anulați comanda dvs. în termen de 14 zile fără a oferi niciun motiv pentru aceasta.",
+        "7": "Termenul limită pentru anularea unei comenzi este de 14 zile de la data la care ați primit bunurile sau la care un terț desemnat de dvs., care nu este transportatorul, intră în posesia produsului livrat.",
+        "8": "Pentru a vă exercita dreptul de anulare, trebuie să ne informați despre decizia dvs. printr-o declarație clară. Ne puteți informa despre decizia dvs. folosind una dintre metodele de contact.",
+        "9": "Vă vom rambursa nu mai târziu de 14 zile de la ziua în care primim bunurile returnate. Vom folosi aceleași mijloace de plată pe care le-ați folosit pentru comandă și nu veți suporta nicio taxă pentru o astfel de rambursare.",
+        "10": "Pentru ca bunurile să fie eligibile pentru returnare, vă rugăm să vă asigurați că:",
+        "11": "Următoarele bunuri nu pot fi returnate:",
+        "12": "Ne rezervăm dreptul de a refuza returnările oricăror bunuri care nu îndeplinesc condițiile de returnare de mai sus, la discreția noastră.",
+        "13": "Nu ezitați să ne contactați dacă aveți întrebări."
+      },
+      "uls": {
+        "1": {
+          "1": "Bunuri: se referă la articolele oferite spre vânzare în cadrul Serviciului.",
+          "2": "Companie: când această politică menționează „Companie”, „noi”, „nouă” sau „al nostru”, se referă la New Yolk S.R.L., Str. Moș Pitar 27, Sector 1, București, care este responsabilă pentru informațiile dvs. conform acestor Termeni și Condiții.",
+          "3": "Țară: unde New Yolk sau proprietarii/fondatorii New Yolk sunt bazați, în acest caz România.",
+          "4": "Comenzi: înseamnă o solicitare de către dvs. pentru a achiziționa bunuri de la noi.",
+          "5": "Serviciu: se referă la serviciul furnizat de New Yolk, așa cum este descris în termenii relativi (dacă sunt disponibili) și pe această platformă.",
+          "6": "Site web: site-ul New Yolk, care poate fi accesat prin acest URL: https://farm.newyolk.io",
+          "7": "Dvs.: o persoană sau entitate care este înregistrată la New Yolk pentru a utiliza Serviciile."
+        },
+        "2": {
+          "1": "Bunurile au fost achiziționate în ultimele 14 zile",
+          "2": "Bunurile sunt în stare originală sau ușor utilizate"
+        },
+        "3": {
+          "1": "Furnizarea de bunuri care sunt, după livrare, vândute sau transferate unei alte părți."
+        }
+      }
+    },
+    "termsOfService": {
+      "h1": "Termeni și Condiții",
+      "updated": "Actualizat la 2023-06-01",
+      "h2": "Termeni Generali",
+      "h3s": {
+        "1": "Licență",
+        "2": "Definiții și termeni cheie",
+        "3": "Restricții",
+        "4": "Politica de Returnare și Rambursare",
+        "5": "Sugestiile Dvs.",
+        "6": "Consimțământul Dvs.",
+        "7": "Linkuri către Alte Site-uri Web",
+        "8": "Cookie-uri",
+        "9": "Modificări ale Termenilor și Condițiilor Noastre",
+        "10": "Modificări ale site-ului nostru web",
+        "11": "Actualizări ale site-ului nostru web",
+        "12": "Servicii Terțe",
+        "13": "Termen și Reziliere",
+        "14": "Notificare privind Încălcarea Drepturilor de Autor",
+        "15": "Despăgubire",
+        "16": "Fără Garanții",
+        "17": "Limitarea Răspunderii",
+        "18": "Divizibilitate",
+        "19": "Renunțare",
+        "20": "Amendamente la acest Acord",
+        "21": "Întregul Acord",
+        "22": "Actualizări ale Termenilor Noștri",
+        "23": "Proprietate Intelectuală",
+        "24": "Acord pentru Arbitraj",
+        "25": "Notificare de Dispută",
+        "26": "Arbitraj Obligatoriu",
+        "27": "Trimiteri și Confidențialitate",
+        "28": "Promoții",
+        "29": "Erori Tipografice",
+        "30": "Diverse",
+        "31": "Declinarea Responsabilității",
+        "32": "Contactați-ne"
+      },
+      "ps": {
+        "1": "Prin accesarea și plasarea unei comenzi la New Yolk, confirmați că sunteți de acord și sunteți obligat de termenii serviciului conținuți în Termenii și Condițiile descrise mai jos. Acești termeni se aplică întregului site web și oricărui email sau alt tip de comunicare între dvs. și New Yolk.",
+        "2": "În niciun caz echipa New Yolk nu va fi responsabilă pentru niciun fel de daune directe, indirecte, speciale, incidentale sau consecvente, inclusiv, dar fără a se limita la, pierderea de date sau profit, care rezultă din utilizarea sau incapacitatea de a utiliza materialele de pe acest site, chiar dacă echipa New Yolk sau un reprezentant autorizat a fost informat despre posibilitatea unor astfel de daune. Dacă utilizarea materialelor de pe acest site necesită servicii, reparații sau corecții ale echipamentelor sau datelor, vă asumați orice costuri aferente.",
+        "3": "New Yolk nu va fi responsabil pentru niciun rezultat care poate apărea în timpul utilizării resurselor noastre. Ne rezervăm dreptul de a schimba prețurile și de a revizui politica de utilizare a resurselor în orice moment.",
+        "4": "New Yolk vă acordă o licență revocabilă, neexclusivă, netransferabilă și limitată pentru a descărca, instala și utiliza site-ul web strict în conformitate cu termenii acestui Acord.",
+        "5": "Acești Termeni și Condiții reprezintă un contract între dvs. și New Yolk (menționat în acești Termeni și Condiții ca 'New Yolk', 'noi', 'nouă' sau 'al nostru'), furnizorul site-ului web New Yolk Farm și al serviciilor accesibile de pe site-ul web New Yolk (care sunt denumite colectiv în acești Termeni și Condiții ca 'Serviciul New Yolk').",
+        "6": "Sunteți de acord să fiți obligat de acești Termeni și Condiții. Dacă nu sunteți de acord cu acești Termeni și Condiții, vă rugăm să nu utilizați Serviciul New Yolk. În acești Termeni și Condiții, 'dvs.' se referă atât la dvs. ca individ, cât și la entitatea pe care o reprezentați. Dacă încălcați oricare dintre acești Termeni și Condiții, ne rezervăm dreptul de a anula contul dvs. sau de a bloca accesul la contul dvs. fără notificare.",
+        "7": "Pentru a ajuta la explicarea lucrurilor cât mai clar posibil în acești Termeni și Condiții, de fiecare dată când sunt menționați acești termeni, sunt definiți strict astfel:",
+        "8": "Sunteți de acord să nu, și nu veți permite altora să:",
+        "9": "Vă mulțumim că ați făcut cumpărături la New Yolk. Apreciem faptul că vă place să cumpărați produsele pe care le construim. De asemenea, dorim să ne asigurăm că aveți o experiență plăcută în timp ce explorați, evaluați și achiziționați produsele noastre.",
+        "10": "Ca în orice experiență de cumpărături, există termeni și condiții care se aplică tranzacțiilor la New Yolk. Vom fi cât mai succinți posibil, în limita permisă de avocații noștri. Principalul lucru de reținut este că, prin plasarea unei comenzi sau efectuarea unei achiziții la New Yolk, sunteți de acord cu termenii împreună cu Politica de Confidențialitate a New Yolk.",
+        "11": "Dacă, din orice motiv, nu sunteți complet mulțumit de orice bun sau serviciu pe care îl furnizăm, nu ezitați să ne contactați și vom discuta orice probleme pe care le întâmpinați cu produsul nostru.",
+        "12": "Orice feedback, comentarii, idei, îmbunătățiri sau sugestii (colectiv, 'Sugestii') furnizate de dvs. către New Yolk în legătură cu site-ul web vor rămâne proprietatea exclusivă a New Yolk Farm.",
+        "13": "New Yolk va fi liber să utilizeze, copieze, modifice, publice sau redistribuie Sugestiile pentru orice scop și în orice mod fără niciun credit sau compensație pentru dvs.",
+        "14": "Am actualizat Termenii și Condițiile noastre pentru a vă oferi transparență completă în ceea ce se stabilește atunci când vizitați site-ul nostru și cum este utilizat. Prin utilizarea site-ului nostru web, înregistrarea unui cont sau efectuarea unei achiziții, consimțiți la Termenii și Condițiile noastre.",
+        "15": "Acești Termeni și Condiții se aplică doar Serviciilor. Serviciile pot conține linkuri către alte site-uri web care nu sunt operate sau controlate de New Yolk. Nu suntem responsabili pentru conținutul, acuratețea sau opiniile exprimate pe astfel de site-uri web, iar astfel de site-uri web nu sunt investigate, monitorizate sau verificate pentru acuratețe sau completitudine de către noi. Vă rugăm să rețineți că atunci când utilizați un link pentru a merge de la Servicii la un alt site web, Termenii și Condițiile noastre nu mai sunt în vigoare. Navigarea și interacțiunea dvs. pe orice alt site web, inclusiv cele care au un link pe platforma noastră, sunt supuse propriilor reguli și politici ale acelui site web. Astfel de terți pot folosi propriile cookie-uri sau alte metode pentru a colecta informații despre dvs.",
+        "16": "New Yolk folosește 'Cookie-uri' pentru a identifica zonele site-ului nostru web pe care le-ați vizitat. Un Cookie este un mic fragment de date stocat pe computerul sau dispozitivul dvs. mobil de către browserul dvs. web. Folosim Cookie-uri pentru a îmbunătăți performanța și funcționalitatea site-ului nostru web, dar nu sunt esențiale pentru utilizarea acestuia. Cu toate acestea, fără aceste cookie-uri, anumite funcționalități, cum ar fi videoclipurile, pot deveni indisponibile sau va trebui să introduceți detaliile de autentificare de fiecare dată când vizitați site-ul web, deoarece nu vom putea reține că v-ați autentificat anterior. Majoritatea browserelor web pot fi setate să dezactiveze utilizarea Cookie-urilor. Cu toate acestea, dacă dezactivați Cookie-urile, este posibil să nu puteți accesa corect sau deloc funcționalitatea site-ului nostru web. Nu plasăm niciodată Informații de Identificare Personală în Cookie-uri.",
+        "17": "Recunoașteți și sunteți de acord că New Yolk poate opri (permanent sau temporar) furnizarea Serviciului (sau a oricăror funcții din cadrul Serviciului) către dvs. sau către utilizatori în general, la discreția sa exclusivă, fără notificare prealabilă către dvs. Puteți înceta utilizarea Serviciului în orice moment. Nu trebuie să informați în mod specific New Yolk atunci când încetați să utilizați Serviciul. Recunoașteți și sunteți de acord că, dacă New Yolk dezactivează accesul la contul dvs., este posibil să fiți împiedicat să accesați Serviciul, detaliile contului dvs. sau orice fișiere sau alte materiale care sunt conținute în contul dvs.",
+        "18": "Dacă decidem să schimbăm Termenii și Condițiile noastre, vom posta acele modificări pe această pagină și/sau vom actualiza data modificării Termenilor și Condițiilor de mai jos.",
+        "19": "New Yolk își rezervă dreptul de a modifica, suspenda sau întrerupe, temporar sau permanent, site-ul web sau orice serviciu la care se conectează, cu sau fără notificare și fără răspundere față de dvs.",
+        "20": "New Yolk poate, din când în când, să furnizeze îmbunătățiri sau îmbunătățiri ale caracteristicilor/funcționalității site-ului web, care pot include patch-uri, remedieri de erori, actualizări, upgrade-uri și alte modificări ('Actualizări').",
+        "21": "Actualizările pot modifica sau șterge anumite caracteristici și/sau funcționalități ale site-ului web. Sunteți de acord că New Yolk Farm nu are nicio obligație de a (i) furniza orice Actualizări sau (ii) continua să furnizeze sau să permită orice caracteristici și/sau funcționalități particulare ale site-ului web către dvs.",
+        "22": "Sunteți de asemenea de acord că toate Actualizările vor fi (i) considerate a constitui o parte integrantă a site-ului web și (ii) supuse termenilor și condițiilor acestui Acord.",
+        "23": "Putem afișa, include sau pune la dispoziție conținut de la terți (inclusiv date, informații, aplicații și alte produse și servicii) sau să furnizăm linkuri către site-uri web sau servicii ale terților ('Servicii ale Terților').",
+        "24": "Recunoașteți și sunteți de acord că New Yolk nu va fi responsabil pentru niciun Serviciu al Terților, inclusiv pentru acuratețea, completitudinea, actualitatea, validitatea, conformitatea cu drepturile de autor, legalitatea, decența, calitatea sau orice alt aspect al acestora. New Yolk nu își asumă și nu va avea nicio răspundere sau responsabilitate față de dvs. sau față de orice altă persoană sau entitate pentru niciun Serviciu al Terților.",
+        "25": "Serviciile Terților și linkurile către acestea sunt furnizate exclusiv pentru confortul dvs. și le accesați și utilizați pe propriul risc și sub rezerva termenilor și condițiilor acelor terți.",
+        "26": "Acest Acord va rămâne în vigoare până când va fi reziliat de dvs. sau de New Yolk.",
+        "27": "New Yolk poate, la discreția sa exclusivă, în orice moment și din orice motiv sau fără niciun motiv, să suspende sau să rezilieze acest Acord cu sau fără notificare prealabilă.",
+        "28": "Acest Acord va înceta imediat, fără notificare prealabilă din partea New Yolk, în cazul în care nu respectați nicio prevedere a acestui Acord. De asemenea, puteți rezilia acest Acord ștergând site-ul web și toate copiile acestuia de pe computerul dvs.",
+        "29": "La încetarea acestui Acord, veți înceta orice utilizare a site-ului web și veți șterge toate copiile site-ului web de pe computerul dvs.",
+        "30": "Încetarea acestui Acord nu va limita niciunul dintre drepturile sau remediile New Yolk în drept sau în echitate în cazul unei încălcări de către dvs. (în timpul termenului acestui Acord) a oricăror obligații ale dvs. în temeiul prezentului Acord.",
+        "31": "Dacă sunteți proprietarul unui drept de autor sau agentul acestuia și credeți că orice material de pe site-ul nostru web constituie o încălcare a dreptului dvs. de autor, vă rugăm să ne contactați furnizând următoarele informații: (a) o semnătură fizică sau electronică a proprietarului dreptului de autor sau a unei persoane autorizate să acționeze în numele acestuia; (b) identificarea materialului care se pretinde că încalcă drepturile de autor; (c) informațiile dvs. de contact, inclusiv adresa, numărul de telefon și un email; (d) o declarație din partea dvs. că aveți convingerea de bună credință că utilizarea materialului nu este autorizată de proprietarii drepturilor de autor; și (e) o declarație că informațiile din notificare sunt exacte și, sub pedeapsa sperjurului, că sunteți autorizat să acționați în numele proprietarului.",
+        "32": "Sunteți de acord să despăgubiți și să exonerați New Yolk și părinții, filialele, afiliații, ofițerii, angajații, agenții, partenerii și licențiatorii săi (dacă există) de orice pretenție sau cerere, inclusiv onorariile rezonabile ale avocaților, datorate sau rezultate din: (a) utilizarea de către dvs. a site-ului web; (b) încălcarea de către dvs. a acestui Acord sau a oricărei legi sau reglementări; sau (c) încălcarea de către dvs. a oricărui drept al unei terțe părți.",
+        "33": "Site-ul web vă este furnizat 'CA ATARE' și 'ÎN FUNCȚIE DE DISPONIBILITATE' și cu toate defectele și deficiențele fără nicio garanție de niciun fel. În măsura maximă permisă de legea aplicabilă, New Yolk, în nume propriu și în numele afiliaților săi și al licențiatorilor și furnizorilor săi respectivi, declină în mod expres toate garanțiile, fie ele exprese, implicite, statutare sau de altă natură, cu privire la site-ul web, inclusiv toate garanțiile implicite de vandabilitate, adecvare pentru un anumit scop, titlu și neîncălcare, și garanțiile care pot apărea din cursul tranzacționării, cursul performanței, utilizarea sau practica comercială. Fără a limita cele de mai sus, New Yolk nu oferă nicio garanție sau angajament și nu face nicio reprezentare de niciun fel că site-ul web va îndeplini cerințele dvs., va obține rezultate intenționate, va fi compatibil sau va funcționa cu orice alt software, sisteme sau servicii, va funcționa fără întrerupere, va îndeplini orice standarde de performanță sau fiabilitate sau va fi lipsit de erori sau că orice erori sau deficiențe pot sau vor fi corectate.",
+        "34": "Fără a limita cele de mai sus, nici New Yolk, nici vreun furnizor al New Yolk nu face nicio reprezentare sau garanție de niciun fel, expresă sau implicită: (i) cu privire la funcționarea sau disponibilitatea site-ului web, sau informațiile, conținutul și materialele sau produsele incluse pe acesta; (ii) că site-ul web va fi neîntrerupt sau lipsit de erori; (iii) cu privire la acuratețea, fiabilitatea sau actualitatea oricărei informații sau conținut furnizat prin intermediul site-ului web; sau (iv) că site-ul web, serverele sale, conținutul sau emailurile trimise de la sau în numele New Yolk sunt lipsite de viruși, scripturi, cai troieni, viermi, malware, bombe cu ceas sau alte componente dăunătoare.",
+        "35": "Unele jurisdicții nu permit excluderea sau limitarea garanțiilor implicite sau limitările drepturilor statutare aplicabile ale unui consumator, astfel încât unele sau toate excluderile și limitările de mai sus s-ar putea să nu se aplice în cazul dvs.",
+        "36": "Indiferent de daunele pe care le-ați putea suferi, întreaga răspundere a New Yolk și a oricăruia dintre furnizorii săi în temeiul oricărei prevederi a acestui Acord și remediul dvs. exclusiv pentru toate cele de mai sus va fi limitată la suma efectiv plătită de dvs. pentru site-ul web.",
+        "37": "În măsura maximă permisă de legea aplicabilă, în niciun caz New Yolk sau furnizorii săi nu vor fi răspunzători pentru orice daune speciale, incidentale, indirecte sau consecvente de orice fel (inclusiv, dar fără a se limita la, daune pentru pierderea de profituri, pierderea de date sau alte informații, întreruperea activității, vătămări personale, pierderea confidențialității care rezultă din sau în orice fel legată de utilizarea sau incapacitatea de a utiliza site-ul web, software-ul terț și/sau hardware-ul terț utilizat cu site-ul web, sau în alt mod în legătură cu orice prevedere a acestui Acord), chiar dacă New Yolk sau orice furnizor a fost informat despre posibilitatea unor astfel de daune și chiar dacă remediul nu își îndeplinește scopul esențial.",
+        "38": "Unele state/jurisdicții nu permit excluderea sau limitarea daunelor incidentale sau consecvente, astfel încât limitarea sau excluderea de mai sus s-ar putea să nu se aplice în cazul dvs.",
+        "39": "Dacă orice prevedere a acestui Acord este considerată inaplicabilă sau invalidă, acea prevedere va fi modificată și interpretată pentru a realiza obiectivele acelei prevederi în cea mai mare măsură posibilă conform legii aplicabile, iar restul prevederilor vor continua în vigoare deplină.",
+        "40": "Acest Acord, împreună cu Politica de Confidențialitate și orice alte notificări legale publicate de New Yolk pe Servicii, constituie întregul acord între dvs. și New Yolk cu privire la Servicii. Dacă orice prevedere a acestui Acord este considerată invalidă de către o instanță de jurisdicție competentă, invaliditatea acelei prevederi nu va afecta valabilitatea celorlalte prevederi ale acestui Acord, care vor rămâne în vigoare deplină. Nicio renunțare la vreun termen al acestui Acord nu va fi considerată o renunțare continuă sau ulterioară la acel termen sau la orice alt termen, iar neexercitarea de către New Yolk a oricărui drept sau prevedere în temeiul acestui Acord nu va constitui o renunțare la acel drept sau prevedere. DVS. ȘI New Yolk SUNTEȚI DE ACORD CĂ ORICE CAUZĂ DE ACȚIUNE CARE REZULTĂ DIN SAU ESTE LEGATĂ DE SERVICII TREBUIE SĂ ÎNCEAPĂ ÎN TERMEN DE UN (1) AN DE LA DATA APARITIEI CAUZEI DE ACȚIUNE. ÎN CAZ CONTRAR, O ASTFEL DE CAUZĂ DE ACȚIUNE ESTE PERMANENT BLOCATĂ.",
+        "41": "Cu excepția celor prevăzute aici, neexercitarea unui drept sau neîndeplinirea unei obligații în temeiul acestui Acord nu va afecta capacitatea unei părți de a exercita acel drept sau de a solicita îndeplinirea acelei obligații în orice moment ulterior și nici renunțarea la o încălcare nu va constitui o renunțare la orice încălcare ulterioară.",
+        "42": "Neexercitarea sau întârzierea în exercitarea, de către oricare dintre părți, a oricărui drept sau a oricărei puteri în temeiul acestui Acord nu va opera ca o renunțare la acel drept sau putere. De asemenea, niciun exercițiu unic sau parțial al oricărui drept sau putere în temeiul acestui Acord nu va exclude exercitarea ulterioară a acelui drept sau putere sau a oricărui alt drept acordat aici. În cazul unui conflict între acest Acord și orice termeni de achiziție sau alți termeni aplicabili, termenii acestui Acord vor prevala.",
+        "43": "New Yolk își rezervă dreptul, la discreția sa exclusivă, de a modifica sau înlocui acest Acord în orice moment. Dacă o revizuire este semnificativă, vom oferi cel puțin 30 de zile de notificare înainte ca noii termeni să intre în vigoare. Ce constituie o schimbare semnificativă va fi determinat la discreția noastră exclusivă.",
+        "44": "Continuând să accesați sau să utilizați site-ul nostru web după ce orice revizuiri devin efective, sunteți de acord să fiți obligat de termenii revizuiți. Dacă nu sunteți de acord cu noii termeni, nu mai sunteți autorizat să utilizați New Yolk.",
+        "45": "Acordul constituie întregul acord între dvs. și New Yolk cu privire la utilizarea site-ului web și înlocuiește toate acordurile anterioare și contemporane, scrise sau orale, între dvs. și New Yolk.",
+        "46": "Este posibil să fiți supus unor termeni și condiții suplimentare care se aplică atunci când utilizați sau achiziționați alte servicii ale New Yolk Farm, pe care New Yolk vi le va furniza la momentul utilizării sau achiziției respective.",
+        "47": "Putem schimba Serviciul și politicile noastre și este posibil să fie necesar să facem modificări acestor Termeni pentru a reflecta corect Serviciul și politicile noastre. Cu excepția cazului în care legea prevede altfel, vă vom notifica (de exemplu, prin intermediul Serviciului nostru) înainte de a face modificări acestor Termeni și vă vom oferi oportunitatea de a le revizui înainte de a intra în vigoare. Apoi, dacă continuați să utilizați Serviciul, veți fi obligat de Termenii actualizați. Dacă nu doriți să fiți de acord cu acești Termeni sau cu oricare Termeni actualizați, puteți să vă ștergeți contul.",
+        "48": "Site-ul web și întregul său conținut, caracteristici și funcționalități (inclusiv, dar fără a se limita la toate informațiile, software-ul, textele, afișările, imaginile, videoclipurile și sunetele, și designul, selecția și aranjamentul acestora) sunt deținute de New Yolk, licențiatorii săi sau alți furnizori de astfel de materiale și sunt protejate de legile internaționale privind drepturile de autor, mărcile comerciale, brevetele, secretele comerciale și alte drepturi de proprietate intelectuală sau drepturi de proprietate. Materialul nu poate fi copiat, modificat, reprodus, descărcat sau distribuit în niciun fel, în întregime sau parțial, fără permisiunea scrisă prealabilă expresă a New Yolk, cu excepția cazului în care și în măsura în care este prevăzut în mod expres în acești Termeni și Condiții. Orice utilizare neautorizată a materialului este interzisă.",
+        "49": "Această secțiune se aplică oricărui litigiu, CU EXCEPȚIA UNUI LITIGIU REFERITOR LA CERERI PENTRU DESPĂGUBIRI SAU REPARAȚII ECHITABILE PRIVIND APLICAREA SAU VALABILITATEA DREPTURILOR DE PROPRIETATE INTELECTUALĂ ALE DVS. SAU ALE New Yolk. Termenul „litigiu” înseamnă orice dispută, acțiune sau altă controversă între dvs. și New Yolk Farm referitoare la Servicii sau la acest acord, fie în contract, garanție, delict, statut, regulament, ordonanță sau orice altă bază legală sau echitabilă. „Litigiu” va fi interpretat în cel mai larg sens permis de lege.",
+        "50": "În cazul unui litigiu, dvs. sau New Yolk trebuie să trimiteți celeilalte părți o Notificare de Litigiu, care este o declarație scrisă care stabilește numele, adresa și informațiile de contact ale părții care o trimite, faptele care au dat naștere litigiului și despăgubirea solicitată. Trebuie să trimiteți orice Notificare de Litigiu prin email la: contact@newyolk.io. New Yolk va trimite orice Notificare de Litigiu către dvs. prin poștă la adresa dvs., dacă o avem, sau altfel la adresa dvs. de email. Dvs. și New Yolk Farm veți încerca să rezolvați orice litigiu prin negociere informală în termen de șaizeci (60) de zile de la data trimiterii Notificării de Litigiu. După șaizeci (60) de zile, dvs. sau New Yolk puteți începe arbitrajul.",
+        "51": "Dacă dvs. și New Yolk nu rezolvați niciun litigiu prin negociere informală, orice alt efort de a rezolva litigiul va fi condus exclusiv prin arbitraj obligatoriu, așa cum este descris în această secțiune. Renunțați la dreptul de a litiga (sau de a participa ca parte sau membru al unei clase) toate litigiile în instanță în fața unui judecător sau a unui juriu. Litigiul va fi soluționat prin arbitraj obligatoriu în conformitate cu regulile de arbitraj comercial ale Asociației Americane de Arbitraj. Oricare dintre părți poate solicita orice măsură interimară sau preliminară de despăgubire de la orice instanță de jurisdicție competentă, după cum este necesar pentru a proteja drepturile sau proprietatea părții respective în așteptarea finalizării arbitrajului. Orice și toate costurile legale, contabile și alte costuri, taxe și cheltuieli suportate de partea câștigătoare vor fi suportate de partea care nu a câștigat.",
+        "52": "În cazul în care trimiteți sau postați orice idei, sugestii creative, designuri, fotografii, informații, reclame, date sau propuneri, inclusiv idei pentru produse, servicii, caracteristici, tehnologii sau promoții noi sau îmbunătățite, sunteți de acord în mod expres că astfel de trimiteri vor fi tratate automat ca neconfidențiale și neproprietare și vor deveni proprietatea exclusivă a New Yolk fără nicio compensație sau credit pentru dvs. New Yolk și afiliații săi nu vor avea nicio obligație cu privire la astfel de trimiteri sau postări și pot utiliza ideile conținute în astfel de trimiteri sau postări pentru orice scop în orice mediu pe termen nelimitat, inclusiv, dar fără a se limita la, dezvoltarea, fabricarea și comercializarea produselor și serviciilor utilizând astfel de idei.",
+        "53": "New Yolk poate, din când în când, să includă concursuri, promoții, tombole sau alte activități („Promoții”) care necesită să trimiteți materiale sau informații despre dvs. Vă rugăm să rețineți că toate Promoțiile pot fi guvernate de reguli separate care pot conține anumite cerințe de eligibilitate, cum ar fi restricții privind vârsta și locația geografică. Sunteți responsabil să citiți toate regulile Promoțiilor pentru a determina dacă sunteți eligibil să participați. Dacă participați la orice Promoție, sunteți de acord să respectați și să respectați toate regulile Promoțiilor.",
+        "54": "Termeni și condiții suplimentare pot fi aplicabile achizițiilor de bunuri sau servicii pe sau prin intermediul Serviciilor, acești termeni și condiții fiind parte integrantă a acestui Acord prin această referință.",
+        "55": "În cazul în care un produs și/sau serviciu este listat la un preț incorect sau cu informații incorecte din cauza unei erori tipografice, avem dreptul de a refuza sau anula orice comenzi plasate pentru produsul și/sau serviciul listat la prețul incorect. Avem dreptul de a refuza sau anula orice astfel de comandă, indiferent dacă comanda a fost confirmată și cardul dvs. de credit a fost debitat. Dacă cardul dvs. de credit a fost deja debitat pentru achiziție și comanda dvs. este anulată, vom emite imediat un credit în contul cardului dvs. de credit sau alt cont de plată în valoarea debitului.",
+        "56": "Dacă, din orice motiv, o instanță de jurisdicție competentă constată că orice prevedere sau parte a acestor Termeni și Condiții este inaplicabilă, restul acestor Termeni și Condiții va continua să fie în vigoare și efect deplin. Orice renunțare la orice prevedere a acestor Termeni și Condiții va fi efectivă numai dacă este în scris și semnată de un reprezentant autorizat al New Yolk. New Yolk va avea dreptul la măsuri injunctive sau alte măsuri echitabile (fără obligația de a posta orice garanție sau cauțiune) în cazul oricărei încălcări sau încălcări anticipate de către dvs. New Yolk operează și controlează Serviciul New Yolk din birourile sale din . Serviciul nu este destinat distribuției sau utilizării de către nicio persoană sau entitate în nicio jurisdicție sau țară în care o astfel de distribuție sau utilizare ar fi contrară legii sau reglementărilor. În consecință, acele persoane care aleg să acceseze Serviciul New Yolk din alte locații fac acest lucru din proprie inițiativă și sunt singurele responsabile pentru respectarea legilor locale, dacă și în măsura în care legile locale sunt aplicabile. Acești Termeni și Condiții (care includ și încorporează Politica de Confidențialitate New Yolk) conțin întreaga înțelegere și înlocuiesc toate înțelegerile anterioare dintre dvs. și New Yolk cu privire la subiectul său și nu pot fi schimbate sau modificate de dvs. Titlurile secțiunilor utilizate în acest Acord sunt doar pentru comoditate și nu vor avea nicio importanță juridică.",
+        "57": "New Yolk nu este responsabil pentru niciun conținut, cod sau orice altă imprecizie.",
+        "58": "New Yolk nu oferă garanții sau asigurări.",
+        "59": "În niciun caz New Yolk nu va fi responsabil pentru daune speciale, directe, indirecte, consecvente sau incidentale sau pentru orice daune de orice fel, fie într-o acțiune contractuală, neglijență sau alt delict, care decurg din sau în legătură cu utilizarea Serviciului sau a conținutului Serviciului. Compania își rezervă dreptul de a face adăugiri, ștergeri sau modificări ale conținutului Serviciului în orice moment fără notificare prealabilă.",
+        "60": "Serviciul New Yolk și conținutul său sunt furnizate 'ca atare' și 'în funcție de disponibilitate', fără nicio garanție sau reprezentare de niciun fel, fie expresă, fie implicită. New Yolk este un distribuitor și nu un editor al conținutului furnizat de terți; ca atare, New Yolk nu exercită niciun control editorial asupra acestui conținut și nu oferă nicio garanție sau reprezentare cu privire la exactitatea, fiabilitatea sau actualitatea oricărei informații, conținut, serviciu sau marfă furnizată prin sau accesibilă prin intermediul Serviciului New Yolk. Fără a se limita la cele de mai sus, New Yolk declină în mod specific toate garanțiile și reprezentările în orice conținut transmis prin sau în legătură cu Serviciul New Yolk sau pe site-urile care pot apărea ca linkuri pe Serviciul New Yolk, sau în produsele furnizate ca parte a sau în legătură cu Serviciul New Yolk, inclusiv, fără limitare, orice garanții de vandabilitate, potrivire pentru un anumit scop sau neîncălcarea drepturilor terților. Niciun sfat oral sau informație scrisă oferită de New Yolk sau de oricare dintre afiliații, angajații, ofițerii, directorii, agenții săi sau altele asemenea nu va crea o garanție. Informațiile despre preț și disponibilitate sunt supuse modificărilor fără notificare prealabilă. Fără a se limita la cele de mai sus, New Yolk nu garantează că Serviciul New Yolk va fi neîntrerupt, necorupt, la timp sau fără erori.",
+        "61": "Nu ezitați să ne contactați dacă aveți întrebări."
+      },
+      "uls": {
+        "1": {
+          "1": "Cookie: o cantitate mică de date generate de un site web și salvate de browserul dvs. web. Este folosit pentru a identifica browserul dvs., a furniza analize, a reține informații despre dvs. cum ar fi preferința de limbă sau informațiile de autentificare.",
+          "2": "Companie: când această politică menționează „Companie”, „noi”, „nouă” sau „al nostru”, se referă la New Yolk S.R.L., Str. Moș Pitar 27, Sector 1, București, care este responsabilă pentru informațiile dvs. conform acestor Termeni și Condiții.",
+          "3": "Țară: unde New Yolk sau proprietarii/fondatorii New Yolk sunt bazați, în acest caz România.",
+          "4": "Dispozitiv: orice dispozitiv conectat la internet, cum ar fi un telefon, tabletă, computer sau orice alt dispozitiv care poate fi folosit pentru a vizita New Yolk și a utiliza serviciile.",
+          "5": "Serviciu: se referă la serviciul furnizat de New Yolk, așa cum este descris în termenii relativi (dacă sunt disponibili) și pe această platformă.",
+          "6": "Serviciu terț: se referă la agenți de publicitate, sponsori de concursuri, parteneri promoționali și de marketing și alții care furnizează conținutul nostru sau ale căror produse sau servicii credem că v-ar putea interesa.",
+          "7": "Site web: site-ul New Yolk, care poate fi accesat prin acest URL: https://farm.newyolk.io",
+          "8": "Dvs.: o persoană sau entitate care este înregistrată la New Yolk pentru a utiliza serviciile."
+        },
+        "2": {
+          "1": "Licențiați, vindeți, închiriați, arendați, cesionați, distribuiți, transmiteți, găzduiți, externalizați, dezvăluiți sau exploatați comercial site-ul web sau puneți platforma la dispoziția oricărei terțe părți.",
+          "2": "Modificați, creați lucrări derivate, dezasamblați, decriptați, recompilați sau realizați inginerie inversă a oricărei părți a site-ului web.",
+          "3": "Eliminați, modificați sau ascundeți orice notificare de proprietate (inclusiv orice notificare de drepturi de autor sau marcă comercială) a New Yolk Farm sau a afiliaților, partenerilor, furnizorilor sau licențiatorilor site-ului web."
+        }
+      }
+    },
+    "contact": {
+      "ul": {
+        "1": "Prin Email: ",
+        "2": "Prin Număr de Telefon: ",
+        "3": "Prin acest Link: "
+      },
+      "email": "contact@newyolk.io",
+      "phone": "+40 731 955 192",
+      "link": "https://newyolk.io/contact"
+    }
+  },
+  "Marketplace": {
+    "floor": "Preț minim",
+    "assetId": "ID activ",
+    "analytics": "Analytics",
+    "salesActivity": "Activitate vânzări",
+    "forSale": "De vânzare",
+    "selected": "Selectat",
+    "assetDetails": "Detalii activ",
+    "state": "Stare",
+    "remaining": "Rămas",
+    "farmingProcess": "Proces de creștere",
+    "dailyRewards": "Recompense zilnice",
+    "day": "Zi",
+    "timeRemaining": "Timp rămas",
+    "complete": "Complet",
+    "growthProgress": "Progres creștere",
+    "dailyFood": "Hrană zilnică",
+    "incubationProgress": "Progres incubație",
+    "floorPrice": "Preț minim",
+    "buyFloor": "Cumpără la preț minim",
+    "total": "Total",
+    "topBid": "Cea mai mare ofertă",
+    "item": "Articol",
+    "items": "Articole",
+    "charts": "Grafice",
+    "noItems": "Nu s-au găsit articole",
+    "sortBy": "Sortează după",
+    "time": "Timp",
+    "price": "Preț",
+    "listed": "Listat",
+    "activity": "Activitate",
+    "sales": "Vânzări",
+    "noSales": "Nu există date despre vânzări încă",
+    "recentSales": "Vânzări recente",
+    "activityFeed": "Flux de activitate",
+    "peak": "Peak",
+    "average": "Average",
+    "volume": "Volume",
+    "owned": "Owned",
+    "listingFilters": {
+      "1": {
+        "label": "Preț crescător",
+        "value": "price_asc",
+        "orderBy": {
+          "buyNowPrice": "asc"
+        }
+      },
+      "2": {
+        "label": "Preț descrescător",
+        "value": "price_desc",
+        "orderBy": {
+          "buyNowPrice": "desc"
+        }
+      },
+      "3": {
+        "label": "Listate recent",
+        "value": "createdAt_desc",
+        "orderBy": {
+          "createdAt": "desc"
+        }
+      },
+      "4": {
+        "label": "Cele mai vechi",
+        "value": "createdAt_asc",
+        "orderBy": {
+          "createdAt": "asc"
+        }
+      }
+    }
+  },
+  "Language": {
+    "changeTitle": "Schimbă limba",
+    "changeMessage": "Alege limba preferată",
+    "apply": "Aplică",
+    "cancel": "Anulează"
+  },
+  "Common": {
+    "before": "înainte",
+    "after": "după",
+    "inThePast": "în trecut",
+    "success": "Succes",
+    "pending": "În așteptare",
+    "error": "Eroare"
+  },
+  "Auth": {
+    "resendIn": "Retrimite în {seconds}s",
+    "resend": "Retrimite codul",
+    "changeEmail": "Schimbă adresa de email",
+    "didntReceive": "Nu ai primit codul?",
+    "firstName": "Prenume",
+    "lastName": "Nume",
+    "email": "Email",
+    "phoneNumber": "Introduceți numărul de telefon",
+    "password": "Parolă",
+    "country": "Țară",
+    "selectYourCountry": "Selectează țara",
+    "createAccount": "Creează cont",
+    "signUp": "Înregistrare",
+    "logIn": "Conectare",
+    "verifyEmail": "Verifică adresa de email",
+    "signIn": "Conectare",
+    "signOut": "Deconectare",
+    "dontHaveAccount": "Nu ai un cont? ",
+    "alreadyHaveAccount": "Ai deja un cont? "
+  },
+  "AccountHistory": {
+    "title": "Istoric Cont",
+    "tabs": {
+      "deposits": "Depozite",
+      "bonuses": "Bonusuri",
+      "withdrawals": "Retrageri",
+      "feeding": "Registru Hrănire",
+      "transactions": "Registru Tranzacții",
+      "marketplace": "Piață"
+    },
+    "deposits": {
+      "table": {
+        "date": "Dată",
+        "type": "Tip",
+        "item": "Articol",
+        "amount": "Cantitate",
+        "value": "Valoare (USD)",
+        "status": "Status"
+      },
+      "empty": "Nu s-au găsit depozite"
+    },
+    "bonuses": {
+      "table": {
+        "date": "Dată",
+        "item": "Articol",
+        "amount": "Cantitate",
+        "value": "Valoare (USD)",
+        "status": "Status"
+      },
+      "empty": "Nu s-au găsit bonusuri"
+    },
+    "withdrawals": {
+      "table": {
+        "date": "Dată",
+        "baseAmount": "Suma de Bază",
+        "baseCurrency": "Moneda de Bază",
+        "withdrawAmount": "Suma Retrasă",
+        "withdrawCurrency": "Moneda Retragere",
+        "commission": "Comision",
+        "status": "Status"
+      },
+      "empty": "Nu s-au găsit retrageri"
+    },
+    "feeding": {
+      "table": {
+        "date": "Dată",
+        "model": "Model",
+        "food": "Hrană",
+        "reward": "Recompensă",
+        "netReward": "Recompensă Netă",
+        "foodUsd": "Hrană (USD)",
+        "rewardUsd": "Recompensă (USD)",
+        "netUsd": "Net (USD)"
+      },
+      "empty": "Nu s-au găsit înregistrări de hrănire"
+    },
+    "transactions": {
+      "table": {
+        "date": "Dată",
+        "type": "Tip",
+        "usd": "USD",
+        "egg": "Ouă",
+        "corn": "Porumb",
+        "milk": "Lapte",
+        "hay": "Fân"
+      },
+      "empty": "Nu s-au găsit tranzacții"
+    },
+    "marketplace": {
+      "tabs": {
+        "sold": "Vândute",
+        "purchased": "Cumpărate"
+      },
+      "table": {
+        "date": "Dată",
+        "item": "Articol",
+        "price": "Preț",
+        "currency": "Moneda",
+        "value": "Valoare (USD)",
+        "buyer": "Cumpărător",
+        "seller": "Vânzător"
+      },
+      "empty": "Nu s-au găsit tranzacții de piață"
+    },
+    "filters": {
+      "dateRange": "Interval de Date",
+      "from": "De la",
+      "to": "Până la",
+      "apply": "Aplică",
+      "clear": "Șterge"
+    },
+    "pagination": {
+      "previous": "Anterioara",
+      "next": "Următoarea",
+      "showing": "Afișare",
+      "of": "din"
+    }
+  },
+  "Breeding": {
+    "heading": "REPRODUCERE",
+    "roostersCount": "{count} Cocoși",
+    "totalRoosters": "Total",
+    "idle": "Inactiv",
+    "breeding": "Reproducere",
+    "ready": "Gata",
+    "totalBreeds": "Reproduceri",
+    "yolkBalance": "YOLK",
+    "canBreed": "Poate reproduce {count}",
+    "breedingsCounter": "{current}/{max}",
+    "timeRemaining": "{time} ramas",
+    "readyToCollect": "Gata de colectat!",
+    "tabAll": "Toate",
+    "tabIdle": "Inactivi",
+    "tabBreeding": "Reproducere",
+    "tabReady": "Gata",
+    "noRoosters": "Niciun cocos inca",
+    "noRoostersCta": "Obtine cocosi",
+    "emptyIdle": "Niciun cocos inactiv - toti se reproduc!",
+    "emptyBreeding": "Niciun cocos in reproducere acum",
+    "emptyReady": "Niciun cocos gata inca - verificati cand se termina cronometrele",
+    "breedingCost": "Cost",
+    "breedingDuration": "Durata",
+    "startBreedButton": "Incepe reproducerea",
+    "finishBreedButton": "Finalizeaza reproducerea",
+    "toasts": {
+      "startBreed": {
+        "pending": "Incep reproducerea...",
+        "success": "Reproducerea a inceput! 🐓",
+        "error": "Esec la inceperea reproducerii"
+      },
+      "finishBreed": {
+        "pending": "Finalizez reproducerea...",
+        "success": "Reproducerea s-a finalizat! 🥚",
+        "error": "Esec la finalizarea reproducerii"
+      }
+    },
+    "startAllIdle": "Incepe toate inactive ({count})",
+    "finishAllReady": "Finalizeaza toate gata ({count})",
+    "bulkStartSelected": "Incepe selectate ({count})",
+    "bulkFinishSelected": "Finalizeaza selectate ({count})",
+    "selected": "{count} selectate",
+    "selectAll": "Selecteaza tot",
+    "deselectAll": "Deselecteaza tot",
+    "tabRoosters": "Cocosi",
+    "tabEggs": "Oua",
+    "egg": {
+      "totalEggs": "Total",
+      "idle": "Inactiv",
+      "incubating": "Incubare",
+      "ready": "Gata",
+      "incubationCost": "Cost",
+      "yolkBalance": "YOLK",
+      "canIncubate": "Poate incuba {count}",
+      "incubationDuration": "Durata",
+      "expiresIn": "Expira in {time}",
+      "expired": "Expirat",
+      "timeRemaining": "{time} ramas",
+      "readyToHatch": "Gata de eclozare!",
+      "tabAll": "Toate",
+      "tabIdle": "Inactive",
+      "tabIncubating": "Incubare",
+      "tabReady": "Gata",
+      "noEggs": "Niciun ou de eclozat",
+      "noEggsCta": "Vezi activele",
+      "emptyIdle": "Niciun ou inactiv - toate sunt in incubare!",
+      "emptyIncubating": "Niciun ou in incubare acum",
+      "emptyReady": "Niciun ou gata inca - verificati cand se termina cronometrele",
+      "startIncubationButton": "Incepe incubatia",
+      "finishHatchingButton": "Finalizeaza eclozarea",
+      "toasts": {
+        "incubate": {
+          "pending": "Incep incubatia...",
+          "success": "Incubatia a inceput! 🥚",
+          "error": "Esec la inceperea incubatiei"
+        },
+        "hatch": {
+          "pending": "Finalizez eclozarea...",
+          "success": "Eclozarea s-a finalizat! 🐣",
+          "error": "Esec la finalizarea eclozarii"
+        },
+        "incubateSkipped": "{count} oua expirate au fost sarite"
+      },
+      "startAllIdle": "Incepe toate inactive ({count})",
+      "finishAllReady": "Finalizeaza toate gata ({count})",
+      "bulkStartSelected": "Incepe selectate ({count})",
+      "bulkFinishSelected": "Finalizeaza selectate ({count})"
+    }
+  }
+}

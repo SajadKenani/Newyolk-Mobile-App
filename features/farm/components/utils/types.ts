@@ -1,0 +1,5 @@
+export const WHITE = "#fdfff5"
+export const VIOLET = "#a855f7"
+export const AMBER = "#eab308"
+export const EMERALD = "#22c55e"
+export const MUTED = "#a1a1aa"
